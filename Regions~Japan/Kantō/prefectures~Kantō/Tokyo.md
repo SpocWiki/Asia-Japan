@@ -26,10 +26,10 @@ publishDate:
 expiryDate: 
 has_id_wikidata: Q1490
 shares_border_with:
-- "[[/_Standards/WikiData/WD~Chiba Prefecture,80011]]"
-- "[[/_Standards/WikiData/WD~Kanagawa Prefecture,127513]]"
-- "[[/_Standards/WikiData/WD~Saitama Prefecture,128186]]"
-- "[[/_Standards/WikiData/WD~Yamanashi Prefecture,132720]]"
+- "[[/_Standards/WikiData/WD~Chiba_Prefecture,80011]]"
+- "[[/_Standards/WikiData/WD~Kanagawa_Prefecture,127513]]"
+- "[[/_Standards/WikiData/WD~Saitama_Prefecture,128186]]"
+- "[[/_Standards/WikiData/WD~Yamanashi_Prefecture,132720]]"
 contains_the_administrative_territorial_entity:
 - '[[/_Standards/WikiData/WD~Komae,86536]]'
 - '[[/_Standards/WikiData/WD~Shinjuku,179645]]'
@@ -83,7 +83,7 @@ contains_the_administrative_territorial_entity:
 - '[[/_Standards/WikiData/WD~Musashimurayama,390806]]'
 - '[[/_Standards/WikiData/WD~Okutama,598626]]'
 - '[[/_Standards/WikiData/WD~Mizuho,975797]]'
-- "[[/_Standards/WikiData/WD~Ogasawara Village,1022925]]"
+- "[[/_Standards/WikiData/WD~Ogasawara_Village,1022925]]"
 - '[[/_Standards/WikiData/WD~Toshima,1143112]]'
 - '[[/_Standards/WikiData/WD~Miyake,1154797]]'
 - '[[/_Standards/WikiData/WD~Hinode,1154806]]'
@@ -93,106 +93,106 @@ contains_the_administrative_territorial_entity:
 - '[[/_Standards/WikiData/WD~Kozushima,1346527]]'
 - '[[/_Standards/WikiData/WD~Hachijo,1354815]]'
 - '[[/_Standards/WikiData/WD~Mikurajima,1354993]]'
-headquarters_location: "[[/_Standards/WikiData/WD~Tokyo Metropolitan Government Building,111973]]"
-located_in_or_next_to_body_of_water: "[[/_Standards/WikiData/WD~Tokyo Bay,141017]]"
+headquarters_location: "[[/_Standards/WikiData/WD~Tokyo_Metropolitan Government Building,111973]]"
+located_in_or_next_to_body_of_water: "[[/_Standards/WikiData/WD~Tokyo_Bay,141017]]"
 official_symbol:
-- "[[/_Standards/WikiData/WD~Prunus × yedoensis,163078]]"
-- "[[/_Standards/WikiData/WD~Black-headed Gull,25634]]"
+- "[[/_Standards/WikiData/WD~Prunus_× yedoensis,163078]]"
+- "[[/_Standards/WikiData/WD~Black-headed_Gull,25634]]"
 instance_of:
 - '[[/_Standards/WikiData/WD~megacity,174844]]'
 - '[[/_Standards/WikiData/WD~metropolis,200250]]'
-- "[[/_Standards/WikiData/WD~global city,208511]]"
-- "[[/_Standards/WikiData/WD~capital of Japan,1025961]]"
-- "[[/_Standards/WikiData/WD~financial center,1066984]]"
-- "[[/_Standards/WikiData/WD~tourist destination,1200957]]"
-- "[[/_Standards/WikiData/WD~big city,1549591]]"
-- "[[/_Standards/WikiData/WD~largest city,51929311]]"
-- "[[/_Standards/WikiData/WD~metropolitan prefecture,124313007]]"
-- "[[/_Standards/WikiData/WD~prefecture of Japan,50337]]"
+- "[[/_Standards/WikiData/WD~global_city,208511]]"
+- "[[/_Standards/WikiData/WD~capital_of Japan,1025961]]"
+- "[[/_Standards/WikiData/WD~financial_center,1066984]]"
+- "[[/_Standards/WikiData/WD~tourist_destination,1200957]]"
+- "[[/_Standards/WikiData/WD~big_city,1549591]]"
+- "[[/_Standards/WikiData/WD~largest_city,51929311]]"
+- "[[/_Standards/WikiData/WD~metropolitan_prefecture,124313007]]"
+- "[[/_Standards/WikiData/WD~prefecture_of Japan,50337]]"
 capital: '[[/_Standards/WikiData/WD~Shinjuku,179645]]'
 historical_region: '[[/_Standards/WikiData/WD~Edo,215646]]'
-head_of_government: "[[/_Standards/WikiData/WD~Yuriko Koike,261703]]"
+head_of_government: "[[/_Standards/WikiData/WD~Yuriko_Koike,261703]]"
 has_part_s_:
-- "[[/_Standards/WikiData/WD~ward area of Tokyo,308891]]"
-- "[[/_Standards/WikiData/WD~Tokyo Metropolitan Government,1074185]]"
-- "[[/_Standards/WikiData/WD~Tokyo Islands,1138596]]"
-- "[[/_Standards/WikiData/WD~Western Tokyo,1323122]]"
+- "[[/_Standards/WikiData/WD~ward_area of Tokyo,308891]]"
+- "[[/_Standards/WikiData/WD~Tokyo_Metropolitan Government,1074185]]"
+- "[[/_Standards/WikiData/WD~Tokyo_Islands,1138596]]"
+- "[[/_Standards/WikiData/WD~Western_Tokyo,1323122]]"
 - '[[/_Standards/WikiData/WD~Tokyo,7473516]]'
 part_of:
-- "[[/_Standards/WikiData/WD~Greater Tokyo Area,328121]]"
+- "[[/_Standards/WikiData/WD~Greater_Tokyo Area,328121]]"
 - '[[/_Standards/WikiData/WD~Minami-Kantō,1775108]]'
 different_from: '[[/_Standards/WikiData/WD~Tokio,355898]]'
 described_by_source:
-- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[/_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-Köppen_climate_classification: "[[/_Standards/WikiData/WD~humid subtropical climate,864320]]"
-located_in_time_zone: "[[/_Standards/WikiData/WD~Japan Standard Time,909085]]"
-executive_body: "[[/_Standards/WikiData/WD~Tokyo Metropolitan Government,1074185]]"
-located_in_on_physical_feature: "[[/_Standards/WikiData/WD~Kantō Plain,1124865]]"
+- "[[/_Standards/WikiData/WD~Brockhaus_and Efron Encyclopedic Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica 11th edition,867541]]"
+- "[[/_Standards/WikiData/WD~The_Nuttall Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~The_New Student's Reference Work,16082057]]"
+- "[[/_Standards/WikiData/WD~Small_Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+Köppen_climate_classification: "[[/_Standards/WikiData/WD~humid_subtropical climate,864320]]"
+located_in_time_zone: "[[/_Standards/WikiData/WD~Japan_Standard Time,909085]]"
+executive_body: "[[/_Standards/WikiData/WD~Tokyo_Metropolitan Government,1074185]]"
+located_in_on_physical_feature: "[[/_Standards/WikiData/WD~Kantō_Plain,1124865]]"
 replaces:
-- "[[/_Standards/WikiData/WD~Tokyo Prefecture,1189121]]"
-- "[[/_Standards/WikiData/WD~Tokyo City,1207735]]"
-has_characteristic: "[[/_Standards/WikiData/WD~primate city,1422929]]"
-highest_point: "[[/_Standards/WikiData/WD~Mount Kumotori,1781878]]"
-has_seal_badge_or_sigil: "[[/_Standards/WikiData/WD~Symbol of Tokyo Metropolis,2332372]]"
-main_regulatory_text: "[[/_Standards/WikiData/WD~Tōkyō tosei,2465336]]"
+- "[[/_Standards/WikiData/WD~Tokyo_Prefecture,1189121]]"
+- "[[/_Standards/WikiData/WD~Tokyo_City,1207735]]"
+has_characteristic: "[[/_Standards/WikiData/WD~primate_city,1422929]]"
+highest_point: "[[/_Standards/WikiData/WD~Mount_Kumotori,1781878]]"
+has_seal_badge_or_sigil: "[[/_Standards/WikiData/WD~Symbol_of Tokyo Metropolis,2332372]]"
+main_regulatory_text: "[[/_Standards/WikiData/WD~Tōkyō_tosei,2465336]]"
 history_of_topic:
-- "[[/_Standards/WikiData/WD~history of Tokyo,2510783]]"
-- "[[/_Standards/WikiData/WD~timeline of Tokyo,20983147]]"
+- "[[/_Standards/WikiData/WD~history_of Tokyo,2510783]]"
+- "[[/_Standards/WikiData/WD~timeline_of Tokyo,20983147]]"
 topic_s_main_template: '[[/_Standards/WikiData/WD~Template_Tokyo,7346706]]'
 contains_settlement: '[[/_Standards/WikiData/WD~Tokyo,7473516]]'
 associated_electoral_district:
-- "[[/_Standards/WikiData/WD~Tokyo 10th district,7813802]]"
-- "[[/_Standards/WikiData/WD~Tokyo 1st district,7813806]]"
-- "[[/_Standards/WikiData/WD~Tokyo 18th district,7813807]]"
-- "[[/_Standards/WikiData/WD~Tokyo 2nd district,7813811]]"
-- "[[/_Standards/WikiData/WD~Tokyo 6th district,7813818]]"
-- "[[/_Standards/WikiData/WD~Tokyo 8th district,7813822]]"
-- "[[/_Standards/WikiData/WD~Tokyo At-large district,7813827]]"
-- "[[/_Standards/WikiData/WD~Tokyo proportional representation block,7814046]]"
-- "[[/_Standards/WikiData/WD~Tokyo 22nd district,10343462]]"
-- "[[/_Standards/WikiData/WD~Tokyo 3rd district,10343508]]"
-- "[[/_Standards/WikiData/WD~Tokyo 4th district,10343531]]"
-- "[[/_Standards/WikiData/WD~Tokyo 7th district,10343578]]"
-- "[[/_Standards/WikiData/WD~Tokyo 25th district,10971927]]"
-- "[[/_Standards/WikiData/WD~Tokyo 11th district,11102981]]"
-- "[[/_Standards/WikiData/WD~Tokyo 9th district,11102990]]"
-- "[[/_Standards/WikiData/WD~Tokyo 5th district,11102988]]"
-- "[[/_Standards/WikiData/WD~Tokyo 13th district,11525650]]"
-- "[[/_Standards/WikiData/WD~Tokyo 14th district,11525651]]"
-- "[[/_Standards/WikiData/WD~Tokyo 12th district,11525648]]"
-- "[[/_Standards/WikiData/WD~Tokyo 17th district,11525654]]"
-- "[[/_Standards/WikiData/WD~Tokyo 19th district,11525655]]"
-- "[[/_Standards/WikiData/WD~Tokyo 15th district,11525652]]"
-- "[[/_Standards/WikiData/WD~Tokyo 16th district,11525653]]"
-- "[[/_Standards/WikiData/WD~Tokyo 21th district,11525658]]"
-- "[[/_Standards/WikiData/WD~Tokyo 23rd district,11525659]]"
-- "[[/_Standards/WikiData/WD~Tokyo 20th district,11525656]]"
-- "[[/_Standards/WikiData/WD~Tokyo 24th district,11525660]]"
-- "[[/_Standards/WikiData/WD~Tokyo 26th district,115515575]]"
-- "[[/_Standards/WikiData/WD~Tokyo 27th district,115515584]]"
-- "[[/_Standards/WikiData/WD~Tokyo 28th district,115515596]]"
-- "[[/_Standards/WikiData/WD~Tokyo 29th district,115515600]]"
-- "[[/_Standards/WikiData/WD~Tokyo 30th district,115515604]]"
-legislative_body: "[[/_Standards/WikiData/WD~Tokyo Metropolitan Assembly,7813951]]"
+- "[[/_Standards/WikiData/WD~Tokyo_10th district,7813802]]"
+- "[[/_Standards/WikiData/WD~Tokyo_1st district,7813806]]"
+- "[[/_Standards/WikiData/WD~Tokyo_18th district,7813807]]"
+- "[[/_Standards/WikiData/WD~Tokyo_2nd district,7813811]]"
+- "[[/_Standards/WikiData/WD~Tokyo_6th district,7813818]]"
+- "[[/_Standards/WikiData/WD~Tokyo_8th district,7813822]]"
+- "[[/_Standards/WikiData/WD~Tokyo_At-large district,7813827]]"
+- "[[/_Standards/WikiData/WD~Tokyo_proportional representation block,7814046]]"
+- "[[/_Standards/WikiData/WD~Tokyo_22nd district,10343462]]"
+- "[[/_Standards/WikiData/WD~Tokyo_3rd district,10343508]]"
+- "[[/_Standards/WikiData/WD~Tokyo_4th district,10343531]]"
+- "[[/_Standards/WikiData/WD~Tokyo_7th district,10343578]]"
+- "[[/_Standards/WikiData/WD~Tokyo_25th district,10971927]]"
+- "[[/_Standards/WikiData/WD~Tokyo_11th district,11102981]]"
+- "[[/_Standards/WikiData/WD~Tokyo_9th district,11102990]]"
+- "[[/_Standards/WikiData/WD~Tokyo_5th district,11102988]]"
+- "[[/_Standards/WikiData/WD~Tokyo_13th district,11525650]]"
+- "[[/_Standards/WikiData/WD~Tokyo_14th district,11525651]]"
+- "[[/_Standards/WikiData/WD~Tokyo_12th district,11525648]]"
+- "[[/_Standards/WikiData/WD~Tokyo_17th district,11525654]]"
+- "[[/_Standards/WikiData/WD~Tokyo_19th district,11525655]]"
+- "[[/_Standards/WikiData/WD~Tokyo_15th district,11525652]]"
+- "[[/_Standards/WikiData/WD~Tokyo_16th district,11525653]]"
+- "[[/_Standards/WikiData/WD~Tokyo_21th district,11525658]]"
+- "[[/_Standards/WikiData/WD~Tokyo_23rd district,11525659]]"
+- "[[/_Standards/WikiData/WD~Tokyo_20th district,11525656]]"
+- "[[/_Standards/WikiData/WD~Tokyo_24th district,11525660]]"
+- "[[/_Standards/WikiData/WD~Tokyo_26th district,115515575]]"
+- "[[/_Standards/WikiData/WD~Tokyo_27th district,115515584]]"
+- "[[/_Standards/WikiData/WD~Tokyo_28th district,115515596]]"
+- "[[/_Standards/WikiData/WD~Tokyo_29th district,115515600]]"
+- "[[/_Standards/WikiData/WD~Tokyo_30th district,115515604]]"
+legislative_body: "[[/_Standards/WikiData/WD~Tokyo_Metropolitan Assembly,7813951]]"
 category_for_people_buried_here: '[[/_Standards/WikiData/WD~Q7978414,7978414]]'
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Tokyo,11379416]]'
-anthem: "[[/_Standards/WikiData/WD~Tokyo Metropolitan Song,11525332]]"
-office_held_by_head_of_government: "[[/_Standards/WikiData/WD~Governor of Tokyo,11525354]]"
-public_holiday: "[[/_Standards/WikiData/WD~Tokyo Citizen's Day,11643728]]"
-archives_at: "[[/_Standards/WikiData/WD~Tokyo Metropolitan Archives,18337459]]"
-flag: "[[/_Standards/WikiData/WD~flag of Tokyo,20900820]]"
+anthem: "[[/_Standards/WikiData/WD~Tokyo_Metropolitan Song,11525332]]"
+office_held_by_head_of_government: "[[/_Standards/WikiData/WD~Governor_of Tokyo,11525354]]"
+public_holiday: "[[/_Standards/WikiData/WD~Tokyo_Citizen's Day,11643728]]"
+archives_at: "[[/_Standards/WikiData/WD~Tokyo_Metropolitan Archives,18337459]]"
+flag: "[[/_Standards/WikiData/WD~flag_of Tokyo,20900820]]"
 Wolfram_Language_entity_code:
 - "Entity[\"MetropolitanArea\", \"TokyoJapanMetro\"]"
 - "Entity[\"AdministrativeDivision\", {\"Tokyo\", \"Japan\"}]"
 - "Entity[\"City\", {\"Tokyo\", \"Tokyo\", \"Japan\"}]"
-economy_of_topic: "[[/_Standards/WikiData/WD~economy of Tokyo,106017817]]"
-on_focus_list_of_Wikimedia_project: "[[/_Standards/WikiData/WD~NADD Wikidata project,123694075]]"
-said_to_be_the_same_as: "[[/_Standards/WikiData/WD~metropolitan prefecture,124313007]]"
-demographics_of_topic: "[[/_Standards/WikiData/WD~demographics of Tokyo,124313324]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of Tokyo,106017817]]"
+on_focus_list_of_Wikimedia_project: "[[/_Standards/WikiData/WD~NADD_Wikidata project,123694075]]"
+said_to_be_the_same_as: "[[/_Standards/WikiData/WD~metropolitan_prefecture,124313007]]"
+demographics_of_topic: "[[/_Standards/WikiData/WD~demographics_of Tokyo,124313324]]"
 demonym:
 - toquiota
 - Tokijčan
@@ -217,23 +217,23 @@ twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Moscow,649]]'
 - '[[/_Standards/WikiData/WD~Beijing,956]]'
 - '[[/_Standards/WikiData/WD~Delhi,1353]]'
-- "[[/_Standards/WikiData/WD~New South Wales,3224]]"
+- "[[/_Standards/WikiData/WD~New_South Wales,3224]]"
 - '[[/_Standards/WikiData/WD~Jakarta,3630]]'
 - '[[/_Standards/WikiData/WD~Damascus,3766]]'
 - '[[/_Standards/WikiData/WD~Amman,3805]]'
 - '[[/_Standards/WikiData/WD~Casablanca,7903]]'
 - '[[/_Standards/WikiData/WD~Seoul,8684]]'
 - '[[/_Standards/WikiData/WD~Honolulu,18094]]'
-- "[[/_Standards/WikiData/WD~Cairo Governorate,30805]]"
-- "[[/_Standards/WikiData/WD~New York City,60]]"
+- "[[/_Standards/WikiData/WD~Cairo_Governorate,30805]]"
+- "[[/_Standards/WikiData/WD~New_York City,60]]"
 - '[[/_Standards/WikiData/WD~Berlin,64]]'
 - '[[/_Standards/WikiData/WD~London,84]]'
 - '[[/_Standards/WikiData/WD~Paris,90]]'
-- "[[/_Standards/WikiData/WD~São Paulo,174]]"
+- "[[/_Standards/WikiData/WD~São_Paulo,174]]"
 - '[[/_Standards/WikiData/WD~Rome,220]]'
 named_after:
 - '[[/_Standards/WikiData/WD~east,684]]'
-- "[[/_Standards/WikiData/WD~capital city,5119]]"
+- "[[/_Standards/WikiData/WD~capital_city,5119]]"
 detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%B1%E4%BA%AC%E9%83%BD%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%86%E5%9B%B3.png"
 aerial_view:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/20041230%20cimg0137%201600%20-%20panoramio.jpg"
