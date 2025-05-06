@@ -1,16 +1,19 @@
 ---
-location: [33.48,130.35] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 33.48
+  - 130.35
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30306
 isDeleted: false
 confidential: public
-
+aliases:
+  - Fukuoka
 ---
 [geo-lon::130.35] 
 [geo-lat::33.48] 

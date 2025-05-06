@@ -1,16 +1,19 @@
 ---
-location: [34.42,132.42] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 34.42
+  - 132.42
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30950
 isDeleted: false
 confidential: public
-
+aliases:
+  - Hiroshima
 ---
 [geo-lon::132.42] 
 [geo-lat::34.42] 
