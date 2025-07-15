@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/City/Sapporo|Sapporo]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/City/Sapporo.public|Sapporo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/City/Sapporo.internal|Sapporo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/City/Sapporo.protect|Sapporo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/City/Sapporo.private|Sapporo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/City/Sapporo.personal|Sapporo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/City/Sapporo.secret|Sapporo.secret]] 
+
+### #is_/same_as :: [Sapporo](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido/City/Sapporo.md) 
+
+### #is_/same_as :: [Sapporo.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido/City/Sapporo.public.md) 
+
+### #is_/same_as :: [Sapporo.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido/City/Sapporo.internal.md) 
+
+### #is_/same_as :: [Sapporo.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido/City/Sapporo.protect.md) 
+
+### #is_/same_as :: [Sapporo.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido/City/Sapporo.private.md) 
+
+### #is_/same_as :: [Sapporo.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido/City/Sapporo.personal.md) 
+
+### #is_/same_as :: [Sapporo.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido/City/Sapporo.secret.md)
+

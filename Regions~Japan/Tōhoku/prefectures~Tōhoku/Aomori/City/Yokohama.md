@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/City/Yokohama|Yokohama]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/City/Yokohama.public|Yokohama.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/City/Yokohama.internal|Yokohama.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/City/Yokohama.protect|Yokohama.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/City/Yokohama.private|Yokohama.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/City/Yokohama.personal|Yokohama.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/City/Yokohama.secret|Yokohama.secret]] 
+
+### #is_/same_as :: [Yokohama](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama.md) 
+
+### #is_/same_as :: [Yokohama.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama.public.md) 
+
+### #is_/same_as :: [Yokohama.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama.internal.md) 
+
+### #is_/same_as :: [Yokohama.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama.protect.md) 
+
+### #is_/same_as :: [Yokohama.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama.private.md) 
+
+### #is_/same_as :: [Yokohama.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama.personal.md) 
+
+### #is_/same_as :: [Yokohama.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama.secret.md)
+

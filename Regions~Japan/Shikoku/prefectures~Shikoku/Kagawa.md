@@ -40,11 +40,18 @@ markerFolder: ./Kagawa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Kagawa|Kagawa]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Kagawa.public|Kagawa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Kagawa.internal|Kagawa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Kagawa.protect|Kagawa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Kagawa.private|Kagawa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Kagawa.personal|Kagawa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Kagawa.secret|Kagawa.secret]] 
+
+### #is_/same_as :: [Kagawa](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kagawa.md) 
+
+### #is_/same_as :: [Kagawa.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kagawa.public.md) 
+
+### #is_/same_as :: [Kagawa.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kagawa.internal.md) 
+
+### #is_/same_as :: [Kagawa.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kagawa.protect.md) 
+
+### #is_/same_as :: [Kagawa.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kagawa.private.md) 
+
+### #is_/same_as :: [Kagawa.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kagawa.personal.md) 
+
+### #is_/same_as :: [Kagawa.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kagawa.secret.md)
 

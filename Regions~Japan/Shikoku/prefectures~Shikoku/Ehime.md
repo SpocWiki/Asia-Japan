@@ -40,11 +40,18 @@ markerFolder: ./Ehime/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime|Ehime]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime.public|Ehime.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime.internal|Ehime.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime.protect|Ehime.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime.private|Ehime.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime.personal|Ehime.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Ehime.secret|Ehime.secret]] 
+
+### #is_/same_as :: [Ehime](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Ehime.md) 
+
+### #is_/same_as :: [Ehime.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Ehime.public.md) 
+
+### #is_/same_as :: [Ehime.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Ehime.internal.md) 
+
+### #is_/same_as :: [Ehime.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Ehime.protect.md) 
+
+### #is_/same_as :: [Ehime.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Ehime.private.md) 
+
+### #is_/same_as :: [Ehime.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Ehime.personal.md) 
+
+### #is_/same_as :: [Ehime.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Ehime.secret.md)
 

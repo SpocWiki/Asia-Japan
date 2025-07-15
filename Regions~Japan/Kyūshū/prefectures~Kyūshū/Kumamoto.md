@@ -40,11 +40,18 @@ markerFolder: ./Kumamoto/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto|Kumamoto]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto.public|Kumamoto.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto.internal|Kumamoto.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto.protect|Kumamoto.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto.private|Kumamoto.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto.personal|Kumamoto.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Kumamoto.secret|Kumamoto.secret]] 
+
+### #is_/same_as :: [Kumamoto](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Kumamoto.md) 
+
+### #is_/same_as :: [Kumamoto.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Kumamoto.public.md) 
+
+### #is_/same_as :: [Kumamoto.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Kumamoto.internal.md) 
+
+### #is_/same_as :: [Kumamoto.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Kumamoto.protect.md) 
+
+### #is_/same_as :: [Kumamoto.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Kumamoto.private.md) 
+
+### #is_/same_as :: [Kumamoto.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Kumamoto.personal.md) 
+
+### #is_/same_as :: [Kumamoto.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Kumamoto.secret.md)
 

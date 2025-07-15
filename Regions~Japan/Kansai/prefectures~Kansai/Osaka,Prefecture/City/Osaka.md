@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/City/Osaka|Osaka]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/City/Osaka.public|Osaka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/City/Osaka.internal|Osaka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/City/Osaka.protect|Osaka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/City/Osaka.private|Osaka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/City/Osaka.personal|Osaka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/City/Osaka.secret|Osaka.secret]] 
+
+### #is_/same_as :: [Osaka](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture/City/Osaka.md) 
+
+### #is_/same_as :: [Osaka.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture/City/Osaka.public.md) 
+
+### #is_/same_as :: [Osaka.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture/City/Osaka.internal.md) 
+
+### #is_/same_as :: [Osaka.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture/City/Osaka.protect.md) 
+
+### #is_/same_as :: [Osaka.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture/City/Osaka.private.md) 
+
+### #is_/same_as :: [Osaka.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture/City/Osaka.personal.md) 
+
+### #is_/same_as :: [Osaka.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture/City/Osaka.secret.md)
+

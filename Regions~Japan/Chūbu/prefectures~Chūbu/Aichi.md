@@ -40,11 +40,18 @@ markerFolder: ./Aichi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi|Aichi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi.public|Aichi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi.internal|Aichi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi.protect|Aichi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi.private|Aichi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi.personal|Aichi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Aichi.secret|Aichi.secret]] 
+
+### #is_/same_as :: [Aichi](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Aichi.md) 
+
+### #is_/same_as :: [Aichi.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Aichi.public.md) 
+
+### #is_/same_as :: [Aichi.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Aichi.internal.md) 
+
+### #is_/same_as :: [Aichi.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Aichi.protect.md) 
+
+### #is_/same_as :: [Aichi.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Aichi.private.md) 
+
+### #is_/same_as :: [Aichi.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Aichi.personal.md) 
+
+### #is_/same_as :: [Aichi.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Aichi.secret.md)
 

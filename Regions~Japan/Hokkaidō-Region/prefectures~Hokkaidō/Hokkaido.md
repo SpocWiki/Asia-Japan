@@ -40,11 +40,18 @@ markerFolder: ./Hokkaido/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Hokkaido|Hokkaido]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Hokkaido.public|Hokkaido.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Hokkaido.internal|Hokkaido.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Hokkaido.protect|Hokkaido.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Hokkaido.private|Hokkaido.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Hokkaido.personal|Hokkaido.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Hokkaido.secret|Hokkaido.secret]] 
+
+### #is_/same_as :: [Hokkaido](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido.md) 
+
+### #is_/same_as :: [Hokkaido.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido.public.md) 
+
+### #is_/same_as :: [Hokkaido.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido.internal.md) 
+
+### #is_/same_as :: [Hokkaido.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido.protect.md) 
+
+### #is_/same_as :: [Hokkaido.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido.private.md) 
+
+### #is_/same_as :: [Hokkaido.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido.personal.md) 
+
+### #is_/same_as :: [Hokkaido.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido.secret.md)
 

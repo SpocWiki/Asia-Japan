@@ -40,11 +40,18 @@ markerFolder: ./Okayama/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Okayama|Okayama]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Okayama.public|Okayama.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Okayama.internal|Okayama.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Okayama.protect|Okayama.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Okayama.private|Okayama.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Okayama.personal|Okayama.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Okayama.secret|Okayama.secret]] 
+
+### #is_/same_as :: [Okayama](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Okayama.md) 
+
+### #is_/same_as :: [Okayama.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Okayama.public.md) 
+
+### #is_/same_as :: [Okayama.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Okayama.internal.md) 
+
+### #is_/same_as :: [Okayama.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Okayama.protect.md) 
+
+### #is_/same_as :: [Okayama.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Okayama.private.md) 
+
+### #is_/same_as :: [Okayama.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Okayama.personal.md) 
+
+### #is_/same_as :: [Okayama.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Okayama.secret.md)
 

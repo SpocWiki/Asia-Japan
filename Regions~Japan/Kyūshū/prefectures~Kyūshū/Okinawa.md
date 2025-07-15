@@ -40,11 +40,18 @@ markerFolder: ./Okinawa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Okinawa|Okinawa]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Okinawa.public|Okinawa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Okinawa.internal|Okinawa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Okinawa.protect|Okinawa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Okinawa.private|Okinawa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Okinawa.personal|Okinawa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Okinawa.secret|Okinawa.secret]] 
+
+### #is_/same_as :: [Okinawa](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Okinawa.md) 
+
+### #is_/same_as :: [Okinawa.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Okinawa.public.md) 
+
+### #is_/same_as :: [Okinawa.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Okinawa.internal.md) 
+
+### #is_/same_as :: [Okinawa.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Okinawa.protect.md) 
+
+### #is_/same_as :: [Okinawa.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Okinawa.private.md) 
+
+### #is_/same_as :: [Okinawa.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Okinawa.personal.md) 
+
+### #is_/same_as :: [Okinawa.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Okinawa.secret.md)
 

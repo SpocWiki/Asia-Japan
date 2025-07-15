@@ -40,11 +40,18 @@ markerFolder: ./Chiba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba|Chiba]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba.public|Chiba.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba.internal|Chiba.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba.protect|Chiba.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba.private|Chiba.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba.personal|Chiba.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Chiba.secret|Chiba.secret]] 
+
+### #is_/same_as :: [Chiba](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Chiba.md) 
+
+### #is_/same_as :: [Chiba.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Chiba.public.md) 
+
+### #is_/same_as :: [Chiba.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Chiba.internal.md) 
+
+### #is_/same_as :: [Chiba.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Chiba.protect.md) 
+
+### #is_/same_as :: [Chiba.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Chiba.private.md) 
+
+### #is_/same_as :: [Chiba.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Chiba.personal.md) 
+
+### #is_/same_as :: [Chiba.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Chiba.secret.md)
 

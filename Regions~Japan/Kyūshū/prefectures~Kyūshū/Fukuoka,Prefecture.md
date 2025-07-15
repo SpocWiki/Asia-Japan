@@ -40,11 +40,18 @@ markerFolder: ./Fukuoka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka|Fukuoka]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.public|Fukuoka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.internal|Fukuoka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.protect|Fukuoka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.private|Fukuoka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.personal|Fukuoka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Fukuoka.secret|Fukuoka.secret]] 
+
+### #is_/same_as :: [Fukuoka,Prefecture](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture.md) 
+
+### #is_/same_as :: [Fukuoka,Prefecture.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture.public.md) 
+
+### #is_/same_as :: [Fukuoka,Prefecture.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture.internal.md) 
+
+### #is_/same_as :: [Fukuoka,Prefecture.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture.protect.md) 
+
+### #is_/same_as :: [Fukuoka,Prefecture.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture.private.md) 
+
+### #is_/same_as :: [Fukuoka,Prefecture.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture.personal.md) 
+
+### #is_/same_as :: [Fukuoka,Prefecture.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture.secret.md)
 

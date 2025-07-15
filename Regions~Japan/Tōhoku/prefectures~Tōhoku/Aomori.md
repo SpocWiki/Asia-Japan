@@ -40,11 +40,18 @@ markerFolder: ./Aomori/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori|Aomori]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori.public|Aomori.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori.internal|Aomori.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori.protect|Aomori.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori.private|Aomori.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori.personal|Aomori.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Aomori.secret|Aomori.secret]] 
+
+### #is_/same_as :: [Aomori](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori.md) 
+
+### #is_/same_as :: [Aomori.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori.public.md) 
+
+### #is_/same_as :: [Aomori.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori.internal.md) 
+
+### #is_/same_as :: [Aomori.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori.protect.md) 
+
+### #is_/same_as :: [Aomori.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori.private.md) 
+
+### #is_/same_as :: [Aomori.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori.personal.md) 
+
+### #is_/same_as :: [Aomori.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Shimane/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane|Shimane]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane.public|Shimane.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane.internal|Shimane.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane.protect|Shimane.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane.private|Shimane.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane.personal|Shimane.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Shimane.secret|Shimane.secret]] 
+
+### #is_/same_as :: [Shimane](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Shimane.md) 
+
+### #is_/same_as :: [Shimane.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Shimane.public.md) 
+
+### #is_/same_as :: [Shimane.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Shimane.internal.md) 
+
+### #is_/same_as :: [Shimane.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Shimane.protect.md) 
+
+### #is_/same_as :: [Shimane.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Shimane.private.md) 
+
+### #is_/same_as :: [Shimane.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Shimane.personal.md) 
+
+### #is_/same_as :: [Shimane.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Shimane.secret.md)
 

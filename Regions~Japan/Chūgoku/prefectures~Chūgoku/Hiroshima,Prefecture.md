@@ -40,11 +40,18 @@ markerFolder: ./Hiroshima/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima|Hiroshima]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima.public|Hiroshima.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima.internal|Hiroshima.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima.protect|Hiroshima.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima.private|Hiroshima.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima.personal|Hiroshima.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Hiroshima.secret|Hiroshima.secret]] 
+
+### #is_/same_as :: [Hiroshima,Prefecture](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture.md) 
+
+### #is_/same_as :: [Hiroshima,Prefecture.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture.public.md) 
+
+### #is_/same_as :: [Hiroshima,Prefecture.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture.internal.md) 
+
+### #is_/same_as :: [Hiroshima,Prefecture.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture.protect.md) 
+
+### #is_/same_as :: [Hiroshima,Prefecture.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture.private.md) 
+
+### #is_/same_as :: [Hiroshima,Prefecture.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture.personal.md) 
+
+### #is_/same_as :: [Hiroshima,Prefecture.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture.secret.md)
 

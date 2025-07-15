@@ -40,11 +40,18 @@ markerFolder: ./Saitama/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Saitama|Saitama]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Saitama.public|Saitama.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Saitama.internal|Saitama.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Saitama.protect|Saitama.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Saitama.private|Saitama.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Saitama.personal|Saitama.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Saitama.secret|Saitama.secret]] 
+
+### #is_/same_as :: [Saitama](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Saitama.md) 
+
+### #is_/same_as :: [Saitama.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Saitama.public.md) 
+
+### #is_/same_as :: [Saitama.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Saitama.internal.md) 
+
+### #is_/same_as :: [Saitama.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Saitama.protect.md) 
+
+### #is_/same_as :: [Saitama.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Saitama.private.md) 
+
+### #is_/same_as :: [Saitama.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Saitama.personal.md) 
+
+### #is_/same_as :: [Saitama.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Saitama.secret.md)
 

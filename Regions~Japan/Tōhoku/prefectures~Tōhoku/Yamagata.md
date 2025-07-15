@@ -40,11 +40,18 @@ markerFolder: ./Yamagata/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Yamagata|Yamagata]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Yamagata.public|Yamagata.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Yamagata.internal|Yamagata.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Yamagata.protect|Yamagata.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Yamagata.private|Yamagata.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Yamagata.personal|Yamagata.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Yamagata.secret|Yamagata.secret]] 
+
+### #is_/same_as :: [Yamagata](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Yamagata.md) 
+
+### #is_/same_as :: [Yamagata.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Yamagata.public.md) 
+
+### #is_/same_as :: [Yamagata.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Yamagata.internal.md) 
+
+### #is_/same_as :: [Yamagata.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Yamagata.protect.md) 
+
+### #is_/same_as :: [Yamagata.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Yamagata.private.md) 
+
+### #is_/same_as :: [Yamagata.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Yamagata.personal.md) 
+
+### #is_/same_as :: [Yamagata.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Yamagata.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Yamanashi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Yamanashi|Yamanashi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Yamanashi.public|Yamanashi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Yamanashi.internal|Yamanashi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Yamanashi.protect|Yamanashi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Yamanashi.private|Yamanashi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Yamanashi.personal|Yamanashi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Yamanashi.secret|Yamanashi.secret]] 
+
+### #is_/same_as :: [Yamanashi](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Yamanashi.md) 
+
+### #is_/same_as :: [Yamanashi.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Yamanashi.public.md) 
+
+### #is_/same_as :: [Yamanashi.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Yamanashi.internal.md) 
+
+### #is_/same_as :: [Yamanashi.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Yamanashi.protect.md) 
+
+### #is_/same_as :: [Yamanashi.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Yamanashi.private.md) 
+
+### #is_/same_as :: [Yamanashi.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Yamanashi.personal.md) 
+
+### #is_/same_as :: [Yamanashi.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Yamanashi.secret.md)
 

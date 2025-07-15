@@ -128,10 +128,4 @@ Capital :: [[Japan/Counties/Tokyo/City/Tokio]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Japan|Japan]] 
-- [[../../../../../_internal/geo/Continent/Asia/Asia~East/Japan.internal|Japan.internal]] 
-- [[../../../../../_protect/geo/Continent/Asia/Asia~East/Japan.protect|Japan.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~East/Japan.private|Japan.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~East/Japan.personal|Japan.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~East/Japan.secret|Japan.secret]] 
+

@@ -40,11 +40,18 @@ markerFolder: ./Iwate/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate|Iwate]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate.public|Iwate.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate.internal|Iwate.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate.protect|Iwate.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate.private|Iwate.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate.personal|Iwate.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Iwate.secret|Iwate.secret]] 
+
+### #is_/same_as :: [Iwate](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Iwate.md) 
+
+### #is_/same_as :: [Iwate.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Iwate.public.md) 
+
+### #is_/same_as :: [Iwate.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Iwate.internal.md) 
+
+### #is_/same_as :: [Iwate.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Iwate.protect.md) 
+
+### #is_/same_as :: [Iwate.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Iwate.private.md) 
+
+### #is_/same_as :: [Iwate.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Iwate.personal.md) 
+
+### #is_/same_as :: [Iwate.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Iwate.secret.md)
 

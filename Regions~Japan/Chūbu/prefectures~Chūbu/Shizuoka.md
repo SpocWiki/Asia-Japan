@@ -40,11 +40,18 @@ markerFolder: ./Shizuoka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka|Shizuoka]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka.public|Shizuoka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka.internal|Shizuoka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka.protect|Shizuoka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka.private|Shizuoka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka.personal|Shizuoka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Shizuoka.secret|Shizuoka.secret]] 
+
+### #is_/same_as :: [Shizuoka](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Shizuoka.md) 
+
+### #is_/same_as :: [Shizuoka.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Shizuoka.public.md) 
+
+### #is_/same_as :: [Shizuoka.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Shizuoka.internal.md) 
+
+### #is_/same_as :: [Shizuoka.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Shizuoka.protect.md) 
+
+### #is_/same_as :: [Shizuoka.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Shizuoka.private.md) 
+
+### #is_/same_as :: [Shizuoka.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Shizuoka.personal.md) 
+
+### #is_/same_as :: [Shizuoka.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Shizuoka.secret.md)
 

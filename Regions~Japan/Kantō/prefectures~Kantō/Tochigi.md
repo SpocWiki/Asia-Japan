@@ -40,11 +40,18 @@ markerFolder: ./Tochigi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Tochigi|Tochigi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Tochigi.public|Tochigi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Tochigi.internal|Tochigi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Tochigi.protect|Tochigi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Tochigi.private|Tochigi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Tochigi.personal|Tochigi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Tochigi.secret|Tochigi.secret]] 
+
+### #is_/same_as :: [Tochigi](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tochigi.md) 
+
+### #is_/same_as :: [Tochigi.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tochigi.public.md) 
+
+### #is_/same_as :: [Tochigi.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tochigi.internal.md) 
+
+### #is_/same_as :: [Tochigi.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tochigi.protect.md) 
+
+### #is_/same_as :: [Tochigi.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tochigi.private.md) 
+
+### #is_/same_as :: [Tochigi.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tochigi.personal.md) 
+
+### #is_/same_as :: [Tochigi.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tochigi.secret.md)
 

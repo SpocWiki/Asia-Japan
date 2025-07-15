@@ -40,11 +40,18 @@ markerFolder: ./Gunma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma|Gunma]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma.public|Gunma.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma.internal|Gunma.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma.protect|Gunma.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma.private|Gunma.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma.personal|Gunma.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Gunma.secret|Gunma.secret]] 
+
+### #is_/same_as :: [Gunma](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Gunma.md) 
+
+### #is_/same_as :: [Gunma.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Gunma.public.md) 
+
+### #is_/same_as :: [Gunma.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Gunma.internal.md) 
+
+### #is_/same_as :: [Gunma.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Gunma.protect.md) 
+
+### #is_/same_as :: [Gunma.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Gunma.private.md) 
+
+### #is_/same_as :: [Gunma.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Gunma.personal.md) 
+
+### #is_/same_as :: [Gunma.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Gunma.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Kyoto/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Kyoto|Kyoto]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Kyoto.public|Kyoto.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Kyoto.internal|Kyoto.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Kyoto.protect|Kyoto.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Kyoto.private|Kyoto.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Kyoto.personal|Kyoto.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Kyoto.secret|Kyoto.secret]] 
+
+### #is_/same_as :: [Kyoto](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Kyoto.md) 
+
+### #is_/same_as :: [Kyoto.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Kyoto.public.md) 
+
+### #is_/same_as :: [Kyoto.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Kyoto.internal.md) 
+
+### #is_/same_as :: [Kyoto.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Kyoto.protect.md) 
+
+### #is_/same_as :: [Kyoto.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Kyoto.private.md) 
+
+### #is_/same_as :: [Kyoto.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Kyoto.personal.md) 
+
+### #is_/same_as :: [Kyoto.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Kyoto.secret.md)
 

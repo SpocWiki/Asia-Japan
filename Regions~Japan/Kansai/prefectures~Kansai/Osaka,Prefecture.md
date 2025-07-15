@@ -40,11 +40,18 @@ markerFolder: ./Osaka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Osaka|Osaka]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Osaka.public|Osaka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Osaka.internal|Osaka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Osaka.protect|Osaka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Osaka.private|Osaka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Osaka.personal|Osaka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Osaka.secret|Osaka.secret]] 
+
+### #is_/same_as :: [Osaka,Prefecture](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture.md) 
+
+### #is_/same_as :: [Osaka,Prefecture.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture.public.md) 
+
+### #is_/same_as :: [Osaka,Prefecture.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture.internal.md) 
+
+### #is_/same_as :: [Osaka,Prefecture.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture.protect.md) 
+
+### #is_/same_as :: [Osaka,Prefecture.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture.private.md) 
+
+### #is_/same_as :: [Osaka,Prefecture.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture.personal.md) 
+
+### #is_/same_as :: [Osaka,Prefecture.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture.secret.md)
 

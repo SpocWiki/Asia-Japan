@@ -40,11 +40,18 @@ markerFolder: ./Yamaguchi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Yamaguchi|Yamaguchi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Yamaguchi.public|Yamaguchi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Yamaguchi.internal|Yamaguchi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Yamaguchi.protect|Yamaguchi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Yamaguchi.private|Yamaguchi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Yamaguchi.personal|Yamaguchi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Yamaguchi.secret|Yamaguchi.secret]] 
+
+### #is_/same_as :: [Yamaguchi](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Yamaguchi.md) 
+
+### #is_/same_as :: [Yamaguchi.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Yamaguchi.public.md) 
+
+### #is_/same_as :: [Yamaguchi.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Yamaguchi.internal.md) 
+
+### #is_/same_as :: [Yamaguchi.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Yamaguchi.protect.md) 
+
+### #is_/same_as :: [Yamaguchi.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Yamaguchi.private.md) 
+
+### #is_/same_as :: [Yamaguchi.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Yamaguchi.personal.md) 
+
+### #is_/same_as :: [Yamaguchi.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Yamaguchi.secret.md)
 

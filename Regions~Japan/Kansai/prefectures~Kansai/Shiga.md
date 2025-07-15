@@ -40,11 +40,18 @@ markerFolder: ./Shiga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Shiga|Shiga]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Shiga.public|Shiga.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Shiga.internal|Shiga.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Shiga.protect|Shiga.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Shiga.private|Shiga.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Shiga.personal|Shiga.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Shiga.secret|Shiga.secret]] 
+
+### #is_/same_as :: [Shiga](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Shiga.md) 
+
+### #is_/same_as :: [Shiga.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Shiga.public.md) 
+
+### #is_/same_as :: [Shiga.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Shiga.internal.md) 
+
+### #is_/same_as :: [Shiga.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Shiga.protect.md) 
+
+### #is_/same_as :: [Shiga.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Shiga.private.md) 
+
+### #is_/same_as :: [Shiga.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Shiga.personal.md) 
+
+### #is_/same_as :: [Shiga.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Shiga.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Tokushima/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima|Tokushima]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima.public|Tokushima.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima.internal|Tokushima.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima.protect|Tokushima.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima.private|Tokushima.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima.personal|Tokushima.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Tokushima.secret|Tokushima.secret]] 
+
+### #is_/same_as :: [Tokushima](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Tokushima.md) 
+
+### #is_/same_as :: [Tokushima.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Tokushima.public.md) 
+
+### #is_/same_as :: [Tokushima.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Tokushima.internal.md) 
+
+### #is_/same_as :: [Tokushima.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Tokushima.protect.md) 
+
+### #is_/same_as :: [Tokushima.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Tokushima.private.md) 
+
+### #is_/same_as :: [Tokushima.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Tokushima.personal.md) 
+
+### #is_/same_as :: [Tokushima.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Tokushima.secret.md)
 

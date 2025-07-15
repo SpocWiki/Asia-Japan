@@ -40,11 +40,18 @@ markerFolder: ./Toyama/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Toyama|Toyama]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Toyama.public|Toyama.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Toyama.internal|Toyama.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Toyama.protect|Toyama.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Toyama.private|Toyama.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Toyama.personal|Toyama.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Toyama.secret|Toyama.secret]] 
+
+### #is_/same_as :: [Toyama](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Toyama.md) 
+
+### #is_/same_as :: [Toyama.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Toyama.public.md) 
+
+### #is_/same_as :: [Toyama.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Toyama.internal.md) 
+
+### #is_/same_as :: [Toyama.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Toyama.protect.md) 
+
+### #is_/same_as :: [Toyama.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Toyama.private.md) 
+
+### #is_/same_as :: [Toyama.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Toyama.personal.md) 
+
+### #is_/same_as :: [Toyama.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Toyama.secret.md)
 

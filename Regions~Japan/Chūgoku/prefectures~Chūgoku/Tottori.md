@@ -40,11 +40,18 @@ markerFolder: ./Tottori/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori|Tottori]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori.public|Tottori.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori.internal|Tottori.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori.protect|Tottori.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori.private|Tottori.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori.personal|Tottori.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Tottori.secret|Tottori.secret]] 
+
+### #is_/same_as :: [Tottori](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Tottori.md) 
+
+### #is_/same_as :: [Tottori.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Tottori.public.md) 
+
+### #is_/same_as :: [Tottori.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Tottori.internal.md) 
+
+### #is_/same_as :: [Tottori.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Tottori.protect.md) 
+
+### #is_/same_as :: [Tottori.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Tottori.private.md) 
+
+### #is_/same_as :: [Tottori.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Tottori.personal.md) 
+
+### #is_/same_as :: [Tottori.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Tottori.secret.md)
 

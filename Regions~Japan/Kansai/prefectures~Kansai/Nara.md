@@ -40,11 +40,18 @@ markerFolder: ./Nara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Nara|Nara]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Nara.public|Nara.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Nara.internal|Nara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Nara.protect|Nara.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Nara.private|Nara.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Nara.personal|Nara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Nara.secret|Nara.secret]] 
+
+### #is_/same_as :: [Nara](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Nara.md) 
+
+### #is_/same_as :: [Nara.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Nara.public.md) 
+
+### #is_/same_as :: [Nara.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Nara.internal.md) 
+
+### #is_/same_as :: [Nara.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Nara.protect.md) 
+
+### #is_/same_as :: [Nara.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Nara.private.md) 
+
+### #is_/same_as :: [Nara.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Nara.personal.md) 
+
+### #is_/same_as :: [Nara.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Nara.secret.md)
 

@@ -33,11 +33,19 @@ Continent :: [[Asia]]
 [geo-lat::26.5] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Ryukyu~Islands|Ryukyu~Islands]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~East/Ryukyu~Islands.internal|Ryukyu~Islands.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~East/Ryukyu~Islands.protect|Ryukyu~Islands.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~East/Ryukyu~Islands.private|Ryukyu~Islands.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~East/Ryukyu~Islands.personal|Ryukyu~Islands.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~East/Ryukyu~Islands.secret|Ryukyu~Islands.secret]] 
+
+### #is_/same_as :: [Ryukyu~Islands](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Ryukyu~Islands.md) 
+
+### #is_/same_as :: [Ryukyu~Islands.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Ryukyu~Islands.public.md) 
+
+### #is_/same_as :: [Ryukyu~Islands.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Ryukyu~Islands.internal.md) 
+
+### #is_/same_as :: [Ryukyu~Islands.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Ryukyu~Islands.protect.md) 
+
+### #is_/same_as :: [Ryukyu~Islands.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Ryukyu~Islands.private.md) 
+
+### #is_/same_as :: [Ryukyu~Islands.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Ryukyu~Islands.personal.md) 
+
+### #is_/same_as :: [Ryukyu~Islands.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Ryukyu~Islands.secret.md)
+

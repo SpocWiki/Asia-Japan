@@ -40,11 +40,18 @@ markerFolder: ./Ishikawa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa|Ishikawa]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa.public|Ishikawa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa.internal|Ishikawa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa.protect|Ishikawa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa.private|Ishikawa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa.personal|Ishikawa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Ishikawa.secret|Ishikawa.secret]] 
+
+### #is_/same_as :: [Ishikawa](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Ishikawa.md) 
+
+### #is_/same_as :: [Ishikawa.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Ishikawa.public.md) 
+
+### #is_/same_as :: [Ishikawa.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Ishikawa.internal.md) 
+
+### #is_/same_as :: [Ishikawa.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Ishikawa.protect.md) 
+
+### #is_/same_as :: [Ishikawa.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Ishikawa.private.md) 
+
+### #is_/same_as :: [Ishikawa.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Ishikawa.personal.md) 
+
+### #is_/same_as :: [Ishikawa.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Ishikawa.secret.md)
 

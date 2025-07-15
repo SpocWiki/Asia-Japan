@@ -40,11 +40,18 @@ markerFolder: ./Kanagawa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa|Kanagawa]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa.public|Kanagawa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa.internal|Kanagawa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa.protect|Kanagawa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa.private|Kanagawa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa.personal|Kanagawa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Kanagawa.secret|Kanagawa.secret]] 
+
+### #is_/same_as :: [Kanagawa](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Kanagawa.md) 
+
+### #is_/same_as :: [Kanagawa.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Kanagawa.public.md) 
+
+### #is_/same_as :: [Kanagawa.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Kanagawa.internal.md) 
+
+### #is_/same_as :: [Kanagawa.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Kanagawa.protect.md) 
+
+### #is_/same_as :: [Kanagawa.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Kanagawa.private.md) 
+
+### #is_/same_as :: [Kanagawa.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Kanagawa.personal.md) 
+
+### #is_/same_as :: [Kanagawa.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Kanagawa.secret.md)
 

@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/City/Tokyo=Tokio|Tokyo=Tokio]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/City/Tokyo=Tokio.public|Tokyo=Tokio.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/City/Tokyo=Tokio.internal|Tokyo=Tokio.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/City/Tokyo=Tokio.protect|Tokyo=Tokio.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/City/Tokyo=Tokio.private|Tokyo=Tokio.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/City/Tokyo=Tokio.personal|Tokyo=Tokio.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/City/Tokyo=Tokio.secret|Tokyo=Tokio.secret]] 
+
+### #is_/same_as :: [Tokyo=Tokio](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo/City/Tokyo=Tokio.md) 
+
+### #is_/same_as :: [Tokyo=Tokio.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo/City/Tokyo=Tokio.public.md) 
+
+### #is_/same_as :: [Tokyo=Tokio.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo/City/Tokyo=Tokio.internal.md) 
+
+### #is_/same_as :: [Tokyo=Tokio.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo/City/Tokyo=Tokio.protect.md) 
+
+### #is_/same_as :: [Tokyo=Tokio.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo/City/Tokyo=Tokio.private.md) 
+
+### #is_/same_as :: [Tokyo=Tokio.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo/City/Tokyo=Tokio.personal.md) 
+
+### #is_/same_as :: [Tokyo=Tokio.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo/City/Tokyo=Tokio.secret.md)
+

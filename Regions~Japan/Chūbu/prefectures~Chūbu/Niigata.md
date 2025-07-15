@@ -40,11 +40,18 @@ markerFolder: ./Niigata/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata|Niigata]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata.public|Niigata.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata.internal|Niigata.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata.protect|Niigata.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata.private|Niigata.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata.personal|Niigata.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Niigata.secret|Niigata.secret]] 
+
+### #is_/same_as :: [Niigata](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Niigata.md) 
+
+### #is_/same_as :: [Niigata.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Niigata.public.md) 
+
+### #is_/same_as :: [Niigata.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Niigata.internal.md) 
+
+### #is_/same_as :: [Niigata.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Niigata.protect.md) 
+
+### #is_/same_as :: [Niigata.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Niigata.private.md) 
+
+### #is_/same_as :: [Niigata.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Niigata.personal.md) 
+
+### #is_/same_as :: [Niigata.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Niigata.secret.md)
 

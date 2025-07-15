@@ -40,11 +40,18 @@ markerFolder: ./Nagano/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano|Nagano]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano.public|Nagano.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano.internal|Nagano.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano.protect|Nagano.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano.private|Nagano.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano.personal|Nagano.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Nagano.secret|Nagano.secret]] 
+
+### #is_/same_as :: [Nagano](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Nagano.md) 
+
+### #is_/same_as :: [Nagano.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Nagano.public.md) 
+
+### #is_/same_as :: [Nagano.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Nagano.internal.md) 
+
+### #is_/same_as :: [Nagano.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Nagano.protect.md) 
+
+### #is_/same_as :: [Nagano.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Nagano.private.md) 
+
+### #is_/same_as :: [Nagano.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Nagano.personal.md) 
+
+### #is_/same_as :: [Nagano.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Nagano.secret.md)
 

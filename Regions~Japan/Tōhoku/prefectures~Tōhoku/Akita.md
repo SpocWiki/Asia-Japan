@@ -40,11 +40,18 @@ markerFolder: ./Akita/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Akita|Akita]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Akita.public|Akita.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Akita.internal|Akita.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Akita.protect|Akita.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Akita.private|Akita.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Akita.personal|Akita.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Akita.secret|Akita.secret]] 
+
+### #is_/same_as :: [Akita](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Akita.md) 
+
+### #is_/same_as :: [Akita.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Akita.public.md) 
+
+### #is_/same_as :: [Akita.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Akita.internal.md) 
+
+### #is_/same_as :: [Akita.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Akita.protect.md) 
+
+### #is_/same_as :: [Akita.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Akita.private.md) 
+
+### #is_/same_as :: [Akita.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Akita.personal.md) 
+
+### #is_/same_as :: [Akita.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Akita.secret.md)
 

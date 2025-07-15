@@ -40,11 +40,18 @@ markerFolder: ./Kochi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi|Kochi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi.public|Kochi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi.internal|Kochi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi.protect|Kochi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi.private|Kochi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi.personal|Kochi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Kochi.secret|Kochi.secret]] 
+
+### #is_/same_as :: [Kochi](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kochi.md) 
+
+### #is_/same_as :: [Kochi.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kochi.public.md) 
+
+### #is_/same_as :: [Kochi.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kochi.internal.md) 
+
+### #is_/same_as :: [Kochi.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kochi.protect.md) 
+
+### #is_/same_as :: [Kochi.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kochi.private.md) 
+
+### #is_/same_as :: [Kochi.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kochi.personal.md) 
+
+### #is_/same_as :: [Kochi.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kochi.secret.md)
 

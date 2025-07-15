@@ -40,11 +40,18 @@ markerFolder: ./Gifu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu|Gifu]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu.public|Gifu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu.internal|Gifu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu.protect|Gifu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu.private|Gifu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu.personal|Gifu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Gifu.secret|Gifu.secret]] 
+
+### #is_/same_as :: [Gifu](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Gifu.md) 
+
+### #is_/same_as :: [Gifu.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Gifu.public.md) 
+
+### #is_/same_as :: [Gifu.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Gifu.internal.md) 
+
+### #is_/same_as :: [Gifu.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Gifu.protect.md) 
+
+### #is_/same_as :: [Gifu.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Gifu.private.md) 
+
+### #is_/same_as :: [Gifu.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Gifu.personal.md) 
+
+### #is_/same_as :: [Gifu.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Gifu.secret.md)
 

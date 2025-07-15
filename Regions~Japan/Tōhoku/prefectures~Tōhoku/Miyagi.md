@@ -40,11 +40,18 @@ markerFolder: ./Miyagi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Miyagi|Miyagi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Miyagi.public|Miyagi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Miyagi.internal|Miyagi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Miyagi.protect|Miyagi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Miyagi.private|Miyagi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Miyagi.personal|Miyagi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Miyagi.secret|Miyagi.secret]] 
+
+### #is_/same_as :: [Miyagi](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Miyagi.md) 
+
+### #is_/same_as :: [Miyagi.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Miyagi.public.md) 
+
+### #is_/same_as :: [Miyagi.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Miyagi.internal.md) 
+
+### #is_/same_as :: [Miyagi.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Miyagi.protect.md) 
+
+### #is_/same_as :: [Miyagi.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Miyagi.private.md) 
+
+### #is_/same_as :: [Miyagi.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Miyagi.personal.md) 
+
+### #is_/same_as :: [Miyagi.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Miyagi.secret.md)
 

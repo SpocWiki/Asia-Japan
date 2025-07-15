@@ -40,11 +40,18 @@ markerFolder: ./Fukui/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui|Fukui]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui.public|Fukui.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui.internal|Fukui.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui.protect|Fukui.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui.private|Fukui.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui.personal|Fukui.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Fukui.secret|Fukui.secret]] 
+
+### #is_/same_as :: [Fukui](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Fukui.md) 
+
+### #is_/same_as :: [Fukui.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Fukui.public.md) 
+
+### #is_/same_as :: [Fukui.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Fukui.internal.md) 
+
+### #is_/same_as :: [Fukui.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Fukui.protect.md) 
+
+### #is_/same_as :: [Fukui.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Fukui.private.md) 
+
+### #is_/same_as :: [Fukui.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Fukui.personal.md) 
+
+### #is_/same_as :: [Fukui.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Fukui.secret.md)
 

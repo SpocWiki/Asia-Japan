@@ -35,10 +35,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/City/Fukuoka|Fukuoka]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/City/Fukuoka.public|Fukuoka.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/City/Fukuoka.internal|Fukuoka.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/City/Fukuoka.protect|Fukuoka.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/City/Fukuoka.private|Fukuoka.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/City/Fukuoka.personal|Fukuoka.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/City/Fukuoka.secret|Fukuoka.secret]] 
+
+### #is_/same_as :: [Fukuoka,City](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture/counties~Fukuoka/Fukuoka-county/Fukuoka,City.md) 
+
+### #is_/same_as :: [Fukuoka,City.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture/counties~Fukuoka/Fukuoka-county/Fukuoka,City.public.md) 
+
+### #is_/same_as :: [Fukuoka,City.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture/counties~Fukuoka/Fukuoka-county/Fukuoka,City.internal.md) 
+
+### #is_/same_as :: [Fukuoka,City.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture/counties~Fukuoka/Fukuoka-county/Fukuoka,City.protect.md) 
+
+### #is_/same_as :: [Fukuoka,City.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture/counties~Fukuoka/Fukuoka-county/Fukuoka,City.private.md) 
+
+### #is_/same_as :: [Fukuoka,City.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture/counties~Fukuoka/Fukuoka-county/Fukuoka,City.personal.md) 
+
+### #is_/same_as :: [Fukuoka,City.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture/counties~Fukuoka/Fukuoka-county/Fukuoka,City.secret.md)
+

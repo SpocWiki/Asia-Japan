@@ -40,11 +40,18 @@ markerFolder: ./Oita/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Oita|Oita]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Oita.public|Oita.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Oita.internal|Oita.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Oita.protect|Oita.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Oita.private|Oita.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Oita.personal|Oita.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Oita.secret|Oita.secret]] 
+
+### #is_/same_as :: [Oita](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Oita.md) 
+
+### #is_/same_as :: [Oita.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Oita.public.md) 
+
+### #is_/same_as :: [Oita.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Oita.internal.md) 
+
+### #is_/same_as :: [Oita.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Oita.protect.md) 
+
+### #is_/same_as :: [Oita.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Oita.private.md) 
+
+### #is_/same_as :: [Oita.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Oita.personal.md) 
+
+### #is_/same_as :: [Oita.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Oita.secret.md)
 

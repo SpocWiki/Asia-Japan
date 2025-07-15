@@ -319,12 +319,20 @@ markerFolder: ./Tokyo/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tokyo) 
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo|Tokyo]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo.public|Tokyo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo.internal|Tokyo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo.protect|Tokyo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo.private|Tokyo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo.personal|Tokyo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Tokyo.secret|Tokyo.secret]] 
+
+### #is_/same_as :: [Tokyo](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo.md) 
+
+### #is_/same_as :: [Tokyo.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo.public.md) 
+
+### #is_/same_as :: [Tokyo.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo.internal.md) 
+
+### #is_/same_as :: [Tokyo.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo.protect.md) 
+
+### #is_/same_as :: [Tokyo.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo.private.md) 
+
+### #is_/same_as :: [Tokyo.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo.personal.md) 
+
+### #is_/same_as :: [Tokyo.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo.secret.md)
 

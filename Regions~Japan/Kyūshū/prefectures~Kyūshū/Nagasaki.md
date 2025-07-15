@@ -40,11 +40,18 @@ markerFolder: ./Nagasaki/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki|Nagasaki]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki.public|Nagasaki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki.internal|Nagasaki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki.protect|Nagasaki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki.private|Nagasaki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki.personal|Nagasaki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/Japan/Counties/Nagasaki.secret|Nagasaki.secret]] 
+
+### #is_/same_as :: [Nagasaki](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Nagasaki.md) 
+
+### #is_/same_as :: [Nagasaki.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Nagasaki.public.md) 
+
+### #is_/same_as :: [Nagasaki.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Nagasaki.internal.md) 
+
+### #is_/same_as :: [Nagasaki.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Nagasaki.protect.md) 
+
+### #is_/same_as :: [Nagasaki.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Nagasaki.private.md) 
+
+### #is_/same_as :: [Nagasaki.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Nagasaki.personal.md) 
+
+### #is_/same_as :: [Nagasaki.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Nagasaki.secret.md)
 
