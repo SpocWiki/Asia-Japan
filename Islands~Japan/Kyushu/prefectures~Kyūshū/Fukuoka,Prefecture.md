@@ -26,15 +26,21 @@ publishDate:
 expiryDate:
 ---
 
-# Fukuoka
+# [[Fukuoka,Prefecture]]
+
+
+## #has_/map 
 
 ```leaflet
-id: Fukuoka
+id: Fukuoka,Prefecture
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
+defaultZoom: 9
 maxZoom: 18
-geojsonFolder: ./Fukuoka/
-markerFolder: ./Fukuoka/
+geojsonFolder: ./Fukuoka,Prefecture/
+markerFolder: ./Fukuoka,Prefecture/
+coordinates: [[Fukuoka,Prefecture]] 
+markerFile: [[Fukuoka,Prefecture]] 
 ```
 
 
