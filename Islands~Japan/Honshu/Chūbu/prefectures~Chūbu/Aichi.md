@@ -26,15 +26,21 @@ publishDate:
 expiryDate:
 ---
 
-# Aichi
+# [[Aichi]]
+
+
+## #has_/map 
 
 ```leaflet
 id: Aichi
 zoomFeatures: true 
+defaultZoom: 9 
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Aichi/
 markerFolder: ./Aichi/
+coordinates: [[Aichi]] 
+markerFile: [[Aichi]] 
 ```
 
 
