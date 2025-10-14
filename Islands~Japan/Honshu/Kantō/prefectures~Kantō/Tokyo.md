@@ -320,13 +320,13 @@ Country :: JAPAN_(EXCLUDING_THE_RUYUKU_ISLANDS)]
 
 ```leaflet
 id: Tokyo
-coordinates: [[Tokio]] 
-markerFile: [[Tokio]] 
+coordinates: [[Tokyo]] 
+markerFile: [[Tokyo]] 
 defaultZoom: 11 
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Tokyo//
+geojsonFolder: ./Tokyo/
 markerFolder: ./Tokyo/
 ```
 
