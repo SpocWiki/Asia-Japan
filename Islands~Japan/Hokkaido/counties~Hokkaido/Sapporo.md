@@ -185,7 +185,9 @@ Country :: JAPAN_(EXCLUDING_THE_RUYUKU_ISLANDS)]
 id: Sapporo
 coordinates: [[Sapporo]] 
 markerFile: [[Sapporo]] 
-defaultZoom: 11 
+geojsonFolder: ./Sapporo/
+markerFolder: ./Sapporo/
+defaultZoom: 6 
 maxZoom: 18
 ```
 
