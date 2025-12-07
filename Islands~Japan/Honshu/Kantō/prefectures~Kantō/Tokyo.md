@@ -19,16 +19,11 @@ SpocWebEntityId:
   - 34894
 isDeleted: false
 confidential: public
-type: geo-Region
 title: Tokyo
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
-isDeleted: false
 isReadOnly: false
 draft: false
-confidential: public
-tags:
-  - geo/Country/Region
 Languages:
   - de
 cssclasses:
@@ -307,6 +302,9 @@ Commons_gallery: 東京
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Tokyo%20banner.jpg
 geoshape: http://commons.wikimedia.org/data/main/Data:Japan/Tokyo.map
 ---
+
+# [[Tokyo]] 
+
 [geo-lon::139.75] 
 [geo-lat::35.67] 
 [name::Tokio] 
@@ -315,19 +313,20 @@ Country :: JAPAN_(EXCLUDING_THE_RUYUKU_ISLANDS)]
 [StateId::] 
 [Population::] 
 [Unknown::] 
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Tokyo,1490|WD~Tokyo,1490]] 
 
-# [[Tokyo]] 
+## #has_/map 
 
 ```leaflet
 id: Tokyo
 coordinates: [[Tokyo]] 
 markerFile: [[Tokyo]] 
-defaultZoom: 11 
-zoomFeatures: true 
+defaultZoom: 6 
+zoomFeatures: false 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Tokyo/
-markerFolder: ./Tokyo/
+geojsonFolder: ./Tokyo//
+markerFolder: ./Tokyo//
 ```
 
 ## #has_/text_of_/abstract
