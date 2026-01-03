@@ -36,3 +36,20 @@ U_S_National_Archives_Identifier: "10044730"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Korea%20Strait) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Korea_Strait|Korea_Strait]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Korea_Strait.public|Korea_Strait.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Korea_Strait.internal|Korea_Strait.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Korea_Strait.protect|Korea_Strait.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Korea_Strait.private|Korea_Strait.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Korea_Strait.personal|Korea_Strait.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Korea_Strait.secret|Korea_Strait.secret]] 
+

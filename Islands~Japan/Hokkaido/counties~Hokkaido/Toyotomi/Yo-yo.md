@@ -47,3 +47,20 @@ Unicode_character: 🪀
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yo-yo) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido/counties~Hokkaido/Toyotomi/Yo-yo|Yo-yo]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido/counties~Hokkaido/Toyotomi/Yo-yo.public|Yo-yo.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido/counties~Hokkaido/Toyotomi/Yo-yo.internal|Yo-yo.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido/counties~Hokkaido/Toyotomi/Yo-yo.protect|Yo-yo.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido/counties~Hokkaido/Toyotomi/Yo-yo.private|Yo-yo.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido/counties~Hokkaido/Toyotomi/Yo-yo.personal|Yo-yo.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido/counties~Hokkaido/Toyotomi/Yo-yo.secret|Yo-yo.secret]] 
+

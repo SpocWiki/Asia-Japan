@@ -40,17 +40,17 @@ markerFolder: ./Ehime/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ehime](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Ehime.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Ehime|Ehime]] 
 
-### #is_/same_as :: [Ehime.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Ehime.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Ehime.public|Ehime.public]] 
 
-### #is_/same_as :: [Ehime.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Ehime.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Ehime.internal|Ehime.internal]] 
 
-### #is_/same_as :: [Ehime.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Ehime.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Ehime.protect|Ehime.protect]] 
 
-### #is_/same_as :: [Ehime.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Ehime.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Ehime.private|Ehime.private]] 
 
-### #is_/same_as :: [Ehime.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Ehime.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Ehime.personal|Ehime.personal]] 
 
-### #is_/same_as :: [Ehime.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Ehime.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Ehime.secret|Ehime.secret]] 
 

@@ -152,21 +152,19 @@ markerFolder: ./Hokkaido/
 > [Wikipedia](https://en.wikipedia.org/wiki/Hokkaido) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hokkaido](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido|Hokkaido]] 
 
-### #is_/same_as :: [Hokkaido.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido.public|Hokkaido.public]] 
 
-### #is_/same_as :: [Hokkaido.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido.internal|Hokkaido.internal]] 
 
-### #is_/same_as :: [Hokkaido.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido.protect|Hokkaido.protect]] 
 
-### #is_/same_as :: [Hokkaido.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido.private|Hokkaido.private]] 
 
-### #is_/same_as :: [Hokkaido.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido.personal|Hokkaido.personal]] 
 
-### #is_/same_as :: [Hokkaido.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido.secret|Hokkaido.secret]] 
 

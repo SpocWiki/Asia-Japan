@@ -154,17 +154,17 @@ markerFile: [[Fukuoka,Prefecture]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fukuoka,Prefecture](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Fukuoka,Prefecture|Fukuoka,Prefecture]] 
 
-### #is_/same_as :: [Fukuoka,Prefecture.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Fukuoka,Prefecture.public|Fukuoka,Prefecture.public]] 
 
-### #is_/same_as :: [Fukuoka,Prefecture.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Fukuoka,Prefecture.internal|Fukuoka,Prefecture.internal]] 
 
-### #is_/same_as :: [Fukuoka,Prefecture.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Fukuoka,Prefecture.protect|Fukuoka,Prefecture.protect]] 
 
-### #is_/same_as :: [Fukuoka,Prefecture.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Fukuoka,Prefecture.private|Fukuoka,Prefecture.private]] 
 
-### #is_/same_as :: [Fukuoka,Prefecture.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Fukuoka,Prefecture.personal|Fukuoka,Prefecture.personal]] 
 
-### #is_/same_as :: [Fukuoka,Prefecture.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Fukuoka,Prefecture.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Fukuoka,Prefecture.secret|Fukuoka,Prefecture.secret]] 
 

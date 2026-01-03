@@ -40,17 +40,17 @@ markerFolder: ./Osaka/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Osaka,Prefecture](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Osaka,Prefecture|Osaka,Prefecture]] 
 
-### #is_/same_as :: [Osaka,Prefecture.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Osaka,Prefecture.public|Osaka,Prefecture.public]] 
 
-### #is_/same_as :: [Osaka,Prefecture.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Osaka,Prefecture.internal|Osaka,Prefecture.internal]] 
 
-### #is_/same_as :: [Osaka,Prefecture.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Osaka,Prefecture.protect|Osaka,Prefecture.protect]] 
 
-### #is_/same_as :: [Osaka,Prefecture.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Osaka,Prefecture.private|Osaka,Prefecture.private]] 
 
-### #is_/same_as :: [Osaka,Prefecture.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Osaka,Prefecture.personal|Osaka,Prefecture.personal]] 
 
-### #is_/same_as :: [Osaka,Prefecture.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Osaka,Prefecture.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Osaka,Prefecture.secret|Osaka,Prefecture.secret]] 
 

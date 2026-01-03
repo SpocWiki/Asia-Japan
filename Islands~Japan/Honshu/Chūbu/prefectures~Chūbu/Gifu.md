@@ -40,17 +40,17 @@ markerFolder: ./Gifu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gifu](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Gifu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Gifu|Gifu]] 
 
-### #is_/same_as :: [Gifu.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Gifu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Gifu.public|Gifu.public]] 
 
-### #is_/same_as :: [Gifu.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Gifu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Gifu.internal|Gifu.internal]] 
 
-### #is_/same_as :: [Gifu.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Gifu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Gifu.protect|Gifu.protect]] 
 
-### #is_/same_as :: [Gifu.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Gifu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Gifu.private|Gifu.private]] 
 
-### #is_/same_as :: [Gifu.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Gifu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Gifu.personal|Gifu.personal]] 
 
-### #is_/same_as :: [Gifu.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Gifu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Gifu.secret|Gifu.secret]] 
 

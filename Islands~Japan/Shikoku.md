@@ -61,3 +61,20 @@ coordinate_location: Point(133.5 33.75)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shikoku) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku|Shikoku]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku.public|Shikoku.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku.internal|Shikoku.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku.protect|Shikoku.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku.private|Shikoku.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku.personal|Shikoku.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku.secret|Shikoku.secret]] 
+

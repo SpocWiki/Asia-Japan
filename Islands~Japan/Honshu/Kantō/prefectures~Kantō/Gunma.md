@@ -40,17 +40,17 @@ markerFolder: ./Gunma/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gunma](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Gunma.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Gunma|Gunma]] 
 
-### #is_/same_as :: [Gunma.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Gunma.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Gunma.public|Gunma.public]] 
 
-### #is_/same_as :: [Gunma.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Gunma.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Gunma.internal|Gunma.internal]] 
 
-### #is_/same_as :: [Gunma.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Gunma.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Gunma.protect|Gunma.protect]] 
 
-### #is_/same_as :: [Gunma.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Gunma.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Gunma.private|Gunma.private]] 
 
-### #is_/same_as :: [Gunma.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Gunma.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Gunma.personal|Gunma.personal]] 
 
-### #is_/same_as :: [Gunma.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Gunma.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Gunma.secret|Gunma.secret]] 
 

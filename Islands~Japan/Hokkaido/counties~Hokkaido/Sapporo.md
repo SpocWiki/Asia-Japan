@@ -213,17 +213,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sapporo](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido/City/Sapporo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido/counties~Hokkaido/Sapporo|Sapporo]] 
 
-### #is_/same_as :: [Sapporo.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido/City/Sapporo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido/counties~Hokkaido/Sapporo.public|Sapporo.public]] 
 
-### #is_/same_as :: [Sapporo.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido/City/Sapporo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido/counties~Hokkaido/Sapporo.internal|Sapporo.internal]] 
 
-### #is_/same_as :: [Sapporo.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido/City/Sapporo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido/counties~Hokkaido/Sapporo.protect|Sapporo.protect]] 
 
-### #is_/same_as :: [Sapporo.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido/City/Sapporo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido/counties~Hokkaido/Sapporo.private|Sapporo.private]] 
 
-### #is_/same_as :: [Sapporo.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido/City/Sapporo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido/counties~Hokkaido/Sapporo.personal|Sapporo.personal]] 
 
-### #is_/same_as :: [Sapporo.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Hokkaidō-Region/prefectures~Hokkaidō/Hokkaido/City/Sapporo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Hokkaido/counties~Hokkaido/Sapporo.secret|Sapporo.secret]] 
 

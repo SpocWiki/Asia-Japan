@@ -40,17 +40,17 @@ markerFolder: ./Saitama/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saitama](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Saitama.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Saitama|Saitama]] 
 
-### #is_/same_as :: [Saitama.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Saitama.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Saitama.public|Saitama.public]] 
 
-### #is_/same_as :: [Saitama.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Saitama.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Saitama.internal|Saitama.internal]] 
 
-### #is_/same_as :: [Saitama.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Saitama.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Saitama.protect|Saitama.protect]] 
 
-### #is_/same_as :: [Saitama.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Saitama.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Saitama.private|Saitama.private]] 
 
-### #is_/same_as :: [Saitama.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Saitama.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Saitama.personal|Saitama.personal]] 
 
-### #is_/same_as :: [Saitama.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Saitama.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Saitama.secret|Saitama.secret]] 
 

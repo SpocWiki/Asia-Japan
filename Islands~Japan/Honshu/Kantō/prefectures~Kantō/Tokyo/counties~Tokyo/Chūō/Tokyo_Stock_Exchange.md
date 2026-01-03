@@ -75,3 +75,20 @@ ISO_9362_SWIFT_BIC_code:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tokyo%20Stock%20Exchange)  
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Chūō/Tokyo_Stock_Exchange|Tokyo_Stock_Exchange]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Chūō/Tokyo_Stock_Exchange.public|Tokyo_Stock_Exchange.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Chūō/Tokyo_Stock_Exchange.internal|Tokyo_Stock_Exchange.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Chūō/Tokyo_Stock_Exchange.protect|Tokyo_Stock_Exchange.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Chūō/Tokyo_Stock_Exchange.private|Tokyo_Stock_Exchange.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Chūō/Tokyo_Stock_Exchange.personal|Tokyo_Stock_Exchange.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Chūō/Tokyo_Stock_Exchange.secret|Tokyo_Stock_Exchange.secret]] 
+

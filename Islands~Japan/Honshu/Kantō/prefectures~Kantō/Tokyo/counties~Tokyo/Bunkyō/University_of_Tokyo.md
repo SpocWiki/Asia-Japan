@@ -166,3 +166,20 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/University%20of%2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/University%20of%20Tokyo) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Bunkyō/University_of_Tokyo|University_of_Tokyo]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Bunkyō/University_of_Tokyo.public|University_of_Tokyo.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Bunkyō/University_of_Tokyo.internal|University_of_Tokyo.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Bunkyō/University_of_Tokyo.protect|University_of_Tokyo.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Bunkyō/University_of_Tokyo.private|University_of_Tokyo.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Bunkyō/University_of_Tokyo.personal|University_of_Tokyo.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Bunkyō/University_of_Tokyo.secret|University_of_Tokyo.secret]] 
+

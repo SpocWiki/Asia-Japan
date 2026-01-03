@@ -128,5 +128,19 @@ Capital :: [[Japan/Counties/Tokyo/City/Tokio]]
 [geo-lat::36.8617] 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/ReadMe|ReadMe]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/ReadMe.public|ReadMe.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/ReadMe.internal|ReadMe.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/ReadMe.protect|ReadMe.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/ReadMe.private|ReadMe.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/ReadMe.personal|ReadMe.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/ReadMe.secret|ReadMe.secret]] 
 

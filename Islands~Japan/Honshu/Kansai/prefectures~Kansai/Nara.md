@@ -40,17 +40,17 @@ markerFolder: ./Nara/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nara](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Nara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Nara|Nara]] 
 
-### #is_/same_as :: [Nara.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Nara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Nara.public|Nara.public]] 
 
-### #is_/same_as :: [Nara.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Nara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Nara.internal|Nara.internal]] 
 
-### #is_/same_as :: [Nara.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Nara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Nara.protect|Nara.protect]] 
 
-### #is_/same_as :: [Nara.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Nara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Nara.private|Nara.private]] 
 
-### #is_/same_as :: [Nara.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Nara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Nara.personal|Nara.personal]] 
 
-### #is_/same_as :: [Nara.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Nara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Nara.secret|Nara.secret]] 
 

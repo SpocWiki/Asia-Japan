@@ -40,17 +40,17 @@ markerFolder: ./Ishikawa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ishikawa](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Ishikawa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Ishikawa|Ishikawa]] 
 
-### #is_/same_as :: [Ishikawa.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Ishikawa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Ishikawa.public|Ishikawa.public]] 
 
-### #is_/same_as :: [Ishikawa.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Ishikawa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Ishikawa.internal|Ishikawa.internal]] 
 
-### #is_/same_as :: [Ishikawa.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Ishikawa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Ishikawa.protect|Ishikawa.protect]] 
 
-### #is_/same_as :: [Ishikawa.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Ishikawa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Ishikawa.private|Ishikawa.private]] 
 
-### #is_/same_as :: [Ishikawa.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Ishikawa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Ishikawa.personal|Ishikawa.personal]] 
 
-### #is_/same_as :: [Ishikawa.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Ishikawa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Ishikawa.secret|Ishikawa.secret]] 
 

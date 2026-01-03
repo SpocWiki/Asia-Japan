@@ -40,17 +40,17 @@ markerFolder: ./Miyazaki/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Miyazaki](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Miyazaki.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Miyazaki|Miyazaki]] 
 
-### #is_/same_as :: [Miyazaki.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Miyazaki.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Miyazaki.public|Miyazaki.public]] 
 
-### #is_/same_as :: [Miyazaki.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Miyazaki.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Miyazaki.internal|Miyazaki.internal]] 
 
-### #is_/same_as :: [Miyazaki.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Miyazaki.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Miyazaki.protect|Miyazaki.protect]] 
 
-### #is_/same_as :: [Miyazaki.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Miyazaki.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Miyazaki.private|Miyazaki.private]] 
 
-### #is_/same_as :: [Miyazaki.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Miyazaki.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Miyazaki.personal|Miyazaki.personal]] 
 
-### #is_/same_as :: [Miyazaki.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Miyazaki.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Miyazaki.secret|Miyazaki.secret]] 
 

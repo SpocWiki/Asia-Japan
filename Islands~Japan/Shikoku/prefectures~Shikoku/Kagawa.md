@@ -40,17 +40,17 @@ markerFolder: ./Kagawa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kagawa](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kagawa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Kagawa|Kagawa]] 
 
-### #is_/same_as :: [Kagawa.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kagawa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Kagawa.public|Kagawa.public]] 
 
-### #is_/same_as :: [Kagawa.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kagawa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Kagawa.internal|Kagawa.internal]] 
 
-### #is_/same_as :: [Kagawa.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kagawa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Kagawa.protect|Kagawa.protect]] 
 
-### #is_/same_as :: [Kagawa.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kagawa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Kagawa.private|Kagawa.private]] 
 
-### #is_/same_as :: [Kagawa.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kagawa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Kagawa.personal|Kagawa.personal]] 
 
-### #is_/same_as :: [Kagawa.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kagawa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Kagawa.secret|Kagawa.secret]] 
 

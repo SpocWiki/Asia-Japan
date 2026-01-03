@@ -40,17 +40,17 @@ markerFolder: ./Fukushima/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fukushima](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Fukushima.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Fukushima|Fukushima]] 
 
-### #is_/same_as :: [Fukushima.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Fukushima.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Fukushima.public|Fukushima.public]] 
 
-### #is_/same_as :: [Fukushima.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Fukushima.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Fukushima.internal|Fukushima.internal]] 
 
-### #is_/same_as :: [Fukushima.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Fukushima.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Fukushima.protect|Fukushima.protect]] 
 
-### #is_/same_as :: [Fukushima.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Fukushima.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Fukushima.private|Fukushima.private]] 
 
-### #is_/same_as :: [Fukushima.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Fukushima.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Fukushima.personal|Fukushima.personal]] 
 
-### #is_/same_as :: [Fukushima.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Fukushima.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Fukushima.secret|Fukushima.secret]] 
 

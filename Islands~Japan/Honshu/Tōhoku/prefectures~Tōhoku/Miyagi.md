@@ -40,17 +40,17 @@ markerFolder: ./Miyagi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Miyagi](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Miyagi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Miyagi|Miyagi]] 
 
-### #is_/same_as :: [Miyagi.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Miyagi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Miyagi.public|Miyagi.public]] 
 
-### #is_/same_as :: [Miyagi.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Miyagi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Miyagi.internal|Miyagi.internal]] 
 
-### #is_/same_as :: [Miyagi.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Miyagi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Miyagi.protect|Miyagi.protect]] 
 
-### #is_/same_as :: [Miyagi.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Miyagi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Miyagi.private|Miyagi.private]] 
 
-### #is_/same_as :: [Miyagi.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Miyagi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Miyagi.personal|Miyagi.personal]] 
 
-### #is_/same_as :: [Miyagi.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Miyagi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Miyagi.secret|Miyagi.secret]] 
 

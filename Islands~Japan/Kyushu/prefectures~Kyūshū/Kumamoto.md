@@ -40,17 +40,17 @@ markerFolder: ./Kumamoto/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kumamoto](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Kumamoto.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Kumamoto|Kumamoto]] 
 
-### #is_/same_as :: [Kumamoto.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Kumamoto.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Kumamoto.public|Kumamoto.public]] 
 
-### #is_/same_as :: [Kumamoto.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Kumamoto.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Kumamoto.internal|Kumamoto.internal]] 
 
-### #is_/same_as :: [Kumamoto.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Kumamoto.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Kumamoto.protect|Kumamoto.protect]] 
 
-### #is_/same_as :: [Kumamoto.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Kumamoto.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Kumamoto.private|Kumamoto.private]] 
 
-### #is_/same_as :: [Kumamoto.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Kumamoto.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Kumamoto.personal|Kumamoto.personal]] 
 
-### #is_/same_as :: [Kumamoto.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Kumamoto.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Kumamoto.secret|Kumamoto.secret]] 
 

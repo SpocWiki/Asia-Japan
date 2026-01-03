@@ -40,17 +40,17 @@ markerFolder: ./Toyama/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Toyama](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Toyama.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Toyama|Toyama]] 
 
-### #is_/same_as :: [Toyama.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Toyama.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Toyama.public|Toyama.public]] 
 
-### #is_/same_as :: [Toyama.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Toyama.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Toyama.internal|Toyama.internal]] 
 
-### #is_/same_as :: [Toyama.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Toyama.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Toyama.protect|Toyama.protect]] 
 
-### #is_/same_as :: [Toyama.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Toyama.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Toyama.private|Toyama.private]] 
 
-### #is_/same_as :: [Toyama.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Toyama.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Toyama.personal|Toyama.personal]] 
 
-### #is_/same_as :: [Toyama.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Toyama.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Toyama.secret|Toyama.secret]] 
 

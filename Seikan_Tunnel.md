@@ -23,3 +23,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Seikan%20Tunnel) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Seikan_Tunnel|Seikan_Tunnel]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Seikan_Tunnel.public|Seikan_Tunnel.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Seikan_Tunnel.internal|Seikan_Tunnel.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Seikan_Tunnel.protect|Seikan_Tunnel.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Seikan_Tunnel.private|Seikan_Tunnel.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Seikan_Tunnel.personal|Seikan_Tunnel.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Seikan_Tunnel.secret|Seikan_Tunnel.secret]] 
+

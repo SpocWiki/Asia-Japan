@@ -46,17 +46,17 @@ markerFile: [[Aichi]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aichi](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Aichi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Aichi|Aichi]] 
 
-### #is_/same_as :: [Aichi.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Aichi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Aichi.public|Aichi.public]] 
 
-### #is_/same_as :: [Aichi.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Aichi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Aichi.internal|Aichi.internal]] 
 
-### #is_/same_as :: [Aichi.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Aichi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Aichi.protect|Aichi.protect]] 
 
-### #is_/same_as :: [Aichi.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Aichi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Aichi.private|Aichi.private]] 
 
-### #is_/same_as :: [Aichi.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Aichi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Aichi.personal|Aichi.personal]] 
 
-### #is_/same_as :: [Aichi.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Aichi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Aichi.secret|Aichi.secret]] 
 

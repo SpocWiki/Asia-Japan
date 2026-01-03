@@ -40,17 +40,17 @@ markerFolder: ./Tokushima/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tokushima](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Tokushima.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Tokushima|Tokushima]] 
 
-### #is_/same_as :: [Tokushima.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Tokushima.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Tokushima.public|Tokushima.public]] 
 
-### #is_/same_as :: [Tokushima.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Tokushima.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Tokushima.internal|Tokushima.internal]] 
 
-### #is_/same_as :: [Tokushima.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Tokushima.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Tokushima.protect|Tokushima.protect]] 
 
-### #is_/same_as :: [Tokushima.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Tokushima.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Tokushima.private|Tokushima.private]] 
 
-### #is_/same_as :: [Tokushima.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Tokushima.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Tokushima.personal|Tokushima.personal]] 
 
-### #is_/same_as :: [Tokushima.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Tokushima.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Tokushima.secret|Tokushima.secret]] 
 

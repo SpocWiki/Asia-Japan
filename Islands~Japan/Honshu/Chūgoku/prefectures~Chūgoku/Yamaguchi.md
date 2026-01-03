@@ -40,17 +40,17 @@ markerFolder: ./Yamaguchi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yamaguchi](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Yamaguchi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Yamaguchi|Yamaguchi]] 
 
-### #is_/same_as :: [Yamaguchi.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Yamaguchi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Yamaguchi.public|Yamaguchi.public]] 
 
-### #is_/same_as :: [Yamaguchi.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Yamaguchi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Yamaguchi.internal|Yamaguchi.internal]] 
 
-### #is_/same_as :: [Yamaguchi.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Yamaguchi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Yamaguchi.protect|Yamaguchi.protect]] 
 
-### #is_/same_as :: [Yamaguchi.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Yamaguchi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Yamaguchi.private|Yamaguchi.private]] 
 
-### #is_/same_as :: [Yamaguchi.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Yamaguchi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Yamaguchi.personal|Yamaguchi.personal]] 
 
-### #is_/same_as :: [Yamaguchi.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Yamaguchi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Yamaguchi.secret|Yamaguchi.secret]] 
 

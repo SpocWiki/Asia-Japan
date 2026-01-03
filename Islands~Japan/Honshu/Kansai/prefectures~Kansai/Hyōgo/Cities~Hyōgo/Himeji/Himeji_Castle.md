@@ -111,3 +111,20 @@ native_label: 姫路城
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Himeji%20Castle) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Hyōgo/Cities~Hyōgo/Himeji/Himeji_Castle|Himeji_Castle]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Hyōgo/Cities~Hyōgo/Himeji/Himeji_Castle.public|Himeji_Castle.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Hyōgo/Cities~Hyōgo/Himeji/Himeji_Castle.internal|Himeji_Castle.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Hyōgo/Cities~Hyōgo/Himeji/Himeji_Castle.protect|Himeji_Castle.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Hyōgo/Cities~Hyōgo/Himeji/Himeji_Castle.private|Himeji_Castle.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Hyōgo/Cities~Hyōgo/Himeji/Himeji_Castle.personal|Himeji_Castle.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Hyōgo/Cities~Hyōgo/Himeji/Himeji_Castle.secret|Himeji_Castle.secret]] 
+

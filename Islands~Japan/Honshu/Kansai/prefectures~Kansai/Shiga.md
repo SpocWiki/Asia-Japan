@@ -40,17 +40,17 @@ markerFolder: ./Shiga/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shiga](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Shiga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Shiga|Shiga]] 
 
-### #is_/same_as :: [Shiga.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Shiga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Shiga.public|Shiga.public]] 
 
-### #is_/same_as :: [Shiga.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Shiga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Shiga.internal|Shiga.internal]] 
 
-### #is_/same_as :: [Shiga.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Shiga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Shiga.protect|Shiga.protect]] 
 
-### #is_/same_as :: [Shiga.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Shiga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Shiga.private|Shiga.private]] 
 
-### #is_/same_as :: [Shiga.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Shiga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Shiga.personal|Shiga.personal]] 
 
-### #is_/same_as :: [Shiga.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Shiga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Shiga.secret|Shiga.secret]] 
 

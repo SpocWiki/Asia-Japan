@@ -19,3 +19,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Himeji) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Hyōgo/Cities~Hyōgo/Himeji|Himeji]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Hyōgo/Cities~Hyōgo/Himeji.public|Himeji.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Hyōgo/Cities~Hyōgo/Himeji.internal|Himeji.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Hyōgo/Cities~Hyōgo/Himeji.protect|Himeji.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Hyōgo/Cities~Hyōgo/Himeji.private|Himeji.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Hyōgo/Cities~Hyōgo/Himeji.personal|Himeji.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Hyōgo/Cities~Hyōgo/Himeji.secret|Himeji.secret]] 
+

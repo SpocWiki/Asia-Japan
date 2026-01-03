@@ -26,3 +26,20 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tokugawa%20Ieyasu) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1603-Tokugawa_Shogunate+1867/Tokugawa_Ieyasu|Tokugawa_Ieyasu]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1603-Tokugawa_Shogunate+1867/Tokugawa_Ieyasu.public|Tokugawa_Ieyasu.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1603-Tokugawa_Shogunate+1867/Tokugawa_Ieyasu.internal|Tokugawa_Ieyasu.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1603-Tokugawa_Shogunate+1867/Tokugawa_Ieyasu.protect|Tokugawa_Ieyasu.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1603-Tokugawa_Shogunate+1867/Tokugawa_Ieyasu.private|Tokugawa_Ieyasu.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1603-Tokugawa_Shogunate+1867/Tokugawa_Ieyasu.personal|Tokugawa_Ieyasu.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1603-Tokugawa_Shogunate+1867/Tokugawa_Ieyasu.secret|Tokugawa_Ieyasu.secret]] 
+

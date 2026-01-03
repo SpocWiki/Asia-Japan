@@ -227,3 +227,20 @@ Commons_gallery: 京都市
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kyoto) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture/counties~Kyoto/Kyoto,City|Kyoto,City]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture/counties~Kyoto/Kyoto,City.public|Kyoto,City.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture/counties~Kyoto/Kyoto,City.internal|Kyoto,City.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture/counties~Kyoto/Kyoto,City.protect|Kyoto,City.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture/counties~Kyoto/Kyoto,City.private|Kyoto,City.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture/counties~Kyoto/Kyoto,City.personal|Kyoto,City.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture/counties~Kyoto/Kyoto,City.secret|Kyoto,City.secret]] 
+

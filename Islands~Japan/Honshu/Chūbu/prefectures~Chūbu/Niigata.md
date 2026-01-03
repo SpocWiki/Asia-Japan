@@ -40,17 +40,17 @@ markerFolder: ./Niigata/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Niigata](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Niigata.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Niigata|Niigata]] 
 
-### #is_/same_as :: [Niigata.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Niigata.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Niigata.public|Niigata.public]] 
 
-### #is_/same_as :: [Niigata.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Niigata.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Niigata.internal|Niigata.internal]] 
 
-### #is_/same_as :: [Niigata.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Niigata.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Niigata.protect|Niigata.protect]] 
 
-### #is_/same_as :: [Niigata.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Niigata.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Niigata.private|Niigata.private]] 
 
-### #is_/same_as :: [Niigata.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Niigata.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Niigata.personal|Niigata.personal]] 
 
-### #is_/same_as :: [Niigata.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūbu/prefectures~Chūbu/Niigata.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Niigata.secret|Niigata.secret]] 
 

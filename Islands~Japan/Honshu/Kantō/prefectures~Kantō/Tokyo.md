@@ -425,17 +425,17 @@ markerFolder: ./Tokyo//
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tokyo](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo|Tokyo]] 
 
-### #is_/same_as :: [Tokyo.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo.public|Tokyo.public]] 
 
-### #is_/same_as :: [Tokyo.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo.internal|Tokyo.internal]] 
 
-### #is_/same_as :: [Tokyo.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo.protect|Tokyo.protect]] 
 
-### #is_/same_as :: [Tokyo.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo.private|Tokyo.private]] 
 
-### #is_/same_as :: [Tokyo.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo.personal|Tokyo.personal]] 
 
-### #is_/same_as :: [Tokyo.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tokyo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo.secret|Tokyo.secret]] 
 

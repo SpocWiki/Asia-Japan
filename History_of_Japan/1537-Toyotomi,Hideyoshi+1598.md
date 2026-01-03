@@ -193,3 +193,20 @@ name_in_native_language: 豊臣秀吉
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Toyotomi%20Hideyoshi) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1537-Toyotomi,Hideyoshi+1598|1537-Toyotomi,Hideyoshi+1598]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1537-Toyotomi,Hideyoshi+1598.public|1537-Toyotomi,Hideyoshi+1598.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1537-Toyotomi,Hideyoshi+1598.internal|1537-Toyotomi,Hideyoshi+1598.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1537-Toyotomi,Hideyoshi+1598.protect|1537-Toyotomi,Hideyoshi+1598.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1537-Toyotomi,Hideyoshi+1598.private|1537-Toyotomi,Hideyoshi+1598.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1537-Toyotomi,Hideyoshi+1598.personal|1537-Toyotomi,Hideyoshi+1598.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1537-Toyotomi,Hideyoshi+1598.secret|1537-Toyotomi,Hideyoshi+1598.secret]] 
+

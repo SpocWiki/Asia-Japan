@@ -40,17 +40,17 @@ markerFolder: ./Kochi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kochi](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kochi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Kochi|Kochi]] 
 
-### #is_/same_as :: [Kochi.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kochi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Kochi.public|Kochi.public]] 
 
-### #is_/same_as :: [Kochi.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kochi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Kochi.internal|Kochi.internal]] 
 
-### #is_/same_as :: [Kochi.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kochi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Kochi.protect|Kochi.protect]] 
 
-### #is_/same_as :: [Kochi.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kochi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Kochi.private|Kochi.private]] 
 
-### #is_/same_as :: [Kochi.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kochi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Kochi.personal|Kochi.personal]] 
 
-### #is_/same_as :: [Kochi.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Shikoku/prefectures~Shikoku/Kochi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Shikoku/prefectures~Shikoku/Kochi.secret|Kochi.secret]] 
 

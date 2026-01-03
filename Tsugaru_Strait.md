@@ -55,3 +55,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Tsugaru%20Strait%20%28
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tsugaru%20Strait) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Tsugaru_Strait|Tsugaru_Strait]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Tsugaru_Strait.public|Tsugaru_Strait.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Tsugaru_Strait.internal|Tsugaru_Strait.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Tsugaru_Strait.protect|Tsugaru_Strait.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Tsugaru_Strait.private|Tsugaru_Strait.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Tsugaru_Strait.personal|Tsugaru_Strait.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Tsugaru_Strait.secret|Tsugaru_Strait.secret]] 
+

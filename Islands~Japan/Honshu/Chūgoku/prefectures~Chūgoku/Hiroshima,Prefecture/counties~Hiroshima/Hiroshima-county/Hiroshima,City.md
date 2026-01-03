@@ -36,17 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hiroshima,City](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture/counties~Hiroshima/Hiroshima-county/Hiroshima,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture/counties~Hiroshima/Hiroshima-county/Hiroshima,City|Hiroshima,City]] 
 
-### #is_/same_as :: [Hiroshima,City.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture/counties~Hiroshima/Hiroshima-county/Hiroshima,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture/counties~Hiroshima/Hiroshima-county/Hiroshima,City.public|Hiroshima,City.public]] 
 
-### #is_/same_as :: [Hiroshima,City.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture/counties~Hiroshima/Hiroshima-county/Hiroshima,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture/counties~Hiroshima/Hiroshima-county/Hiroshima,City.internal|Hiroshima,City.internal]] 
 
-### #is_/same_as :: [Hiroshima,City.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture/counties~Hiroshima/Hiroshima-county/Hiroshima,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture/counties~Hiroshima/Hiroshima-county/Hiroshima,City.protect|Hiroshima,City.protect]] 
 
-### #is_/same_as :: [Hiroshima,City.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture/counties~Hiroshima/Hiroshima-county/Hiroshima,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture/counties~Hiroshima/Hiroshima-county/Hiroshima,City.private|Hiroshima,City.private]] 
 
-### #is_/same_as :: [Hiroshima,City.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture/counties~Hiroshima/Hiroshima-county/Hiroshima,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture/counties~Hiroshima/Hiroshima-county/Hiroshima,City.personal|Hiroshima,City.personal]] 
 
-### #is_/same_as :: [Hiroshima,City.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture/counties~Hiroshima/Hiroshima-county/Hiroshima,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Hiroshima,Prefecture/counties~Hiroshima/Hiroshima-county/Hiroshima,City.secret|Hiroshima,City.secret]] 
 

@@ -42,17 +42,17 @@ markerFolder: ./Kyoto/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kyoto](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Kyoto.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture|Kyoto,Prefecture]] 
 
-### #is_/same_as :: [Kyoto.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Kyoto.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture.public|Kyoto,Prefecture.public]] 
 
-### #is_/same_as :: [Kyoto.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Kyoto.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture.internal|Kyoto,Prefecture.internal]] 
 
-### #is_/same_as :: [Kyoto.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Kyoto.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture.protect|Kyoto,Prefecture.protect]] 
 
-### #is_/same_as :: [Kyoto.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Kyoto.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture.private|Kyoto,Prefecture.private]] 
 
-### #is_/same_as :: [Kyoto.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Kyoto.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture.personal|Kyoto,Prefecture.personal]] 
 
-### #is_/same_as :: [Kyoto.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kansai/prefectures~Kansai/Kyoto.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture.secret|Kyoto,Prefecture.secret]] 
 

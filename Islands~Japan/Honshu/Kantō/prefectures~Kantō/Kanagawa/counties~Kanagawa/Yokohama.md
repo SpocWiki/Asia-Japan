@@ -255,3 +255,19 @@ minZoom: 6
 > [Wikipedia](https://en.wikipedia.org/wiki/Yokohama) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Kanagawa/counties~Kanagawa/Yokohama|Yokohama]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Kanagawa/counties~Kanagawa/Yokohama.public|Yokohama.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Kanagawa/counties~Kanagawa/Yokohama.internal|Yokohama.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Kanagawa/counties~Kanagawa/Yokohama.protect|Yokohama.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Kanagawa/counties~Kanagawa/Yokohama.private|Yokohama.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Kanagawa/counties~Kanagawa/Yokohama.personal|Yokohama.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Kanagawa/counties~Kanagawa/Yokohama.secret|Yokohama.secret]] 
+

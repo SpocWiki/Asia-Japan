@@ -40,17 +40,17 @@ markerFolder: ./Saga/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saga](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Saga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Saga|Saga]] 
 
-### #is_/same_as :: [Saga.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Saga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Saga.public|Saga.public]] 
 
-### #is_/same_as :: [Saga.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Saga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Saga.internal|Saga.internal]] 
 
-### #is_/same_as :: [Saga.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Saga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Saga.protect|Saga.protect]] 
 
-### #is_/same_as :: [Saga.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Saga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Saga.private|Saga.private]] 
 
-### #is_/same_as :: [Saga.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Saga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Saga.personal|Saga.personal]] 
 
-### #is_/same_as :: [Saga.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Saga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Saga.secret|Saga.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Akita/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Akita](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Akita.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Akita|Akita]] 
 
-### #is_/same_as :: [Akita.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Akita.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Akita.public|Akita.public]] 
 
-### #is_/same_as :: [Akita.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Akita.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Akita.internal|Akita.internal]] 
 
-### #is_/same_as :: [Akita.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Akita.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Akita.protect|Akita.protect]] 
 
-### #is_/same_as :: [Akita.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Akita.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Akita.private|Akita.private]] 
 
-### #is_/same_as :: [Akita.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Akita.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Akita.personal|Akita.personal]] 
 
-### #is_/same_as :: [Akita.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Akita.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Akita.secret|Akita.secret]] 
 

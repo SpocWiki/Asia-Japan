@@ -40,17 +40,17 @@ markerFolder: ./Okayama/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Okayama](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Okayama.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Okayama|Okayama]] 
 
-### #is_/same_as :: [Okayama.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Okayama.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Okayama.public|Okayama.public]] 
 
-### #is_/same_as :: [Okayama.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Okayama.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Okayama.internal|Okayama.internal]] 
 
-### #is_/same_as :: [Okayama.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Okayama.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Okayama.protect|Okayama.protect]] 
 
-### #is_/same_as :: [Okayama.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Okayama.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Okayama.private|Okayama.private]] 
 
-### #is_/same_as :: [Okayama.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Okayama.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Okayama.personal|Okayama.personal]] 
 
-### #is_/same_as :: [Okayama.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Okayama.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Okayama.secret|Okayama.secret]] 
 

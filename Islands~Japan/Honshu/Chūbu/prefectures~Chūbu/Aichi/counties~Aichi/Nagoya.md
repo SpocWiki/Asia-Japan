@@ -226,3 +226,20 @@ markerFile: [[Nagoya]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nagoya) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Aichi/counties~Aichi/Nagoya|Nagoya]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Aichi/counties~Aichi/Nagoya.public|Nagoya.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Aichi/counties~Aichi/Nagoya.internal|Nagoya.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Aichi/counties~Aichi/Nagoya.protect|Nagoya.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Aichi/counties~Aichi/Nagoya.private|Nagoya.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Aichi/counties~Aichi/Nagoya.personal|Nagoya.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūbu/prefectures~Chūbu/Aichi/counties~Aichi/Nagoya.secret|Nagoya.secret]] 
+

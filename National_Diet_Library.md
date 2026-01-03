@@ -108,3 +108,20 @@ ISBN_publisher_prefix: 978-4-87582
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20Diet%20Library) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/National_Diet_Library|National_Diet_Library]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/National_Diet_Library.public|National_Diet_Library.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/National_Diet_Library.internal|National_Diet_Library.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/National_Diet_Library.protect|National_Diet_Library.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/National_Diet_Library.private|National_Diet_Library.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/National_Diet_Library.personal|National_Diet_Library.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/National_Diet_Library.secret|National_Diet_Library.secret]] 
+

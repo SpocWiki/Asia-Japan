@@ -129,3 +129,20 @@ coordinate_location: Point(135.780842 35.026212)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kyoto%20University) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture/counties~Kyoto/Kyoto,City/Kyoto_University|Kyoto_University]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture/counties~Kyoto/Kyoto,City/Kyoto_University.public|Kyoto_University.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture/counties~Kyoto/Kyoto,City/Kyoto_University.internal|Kyoto_University.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture/counties~Kyoto/Kyoto,City/Kyoto_University.protect|Kyoto_University.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture/counties~Kyoto/Kyoto,City/Kyoto_University.private|Kyoto_University.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture/counties~Kyoto/Kyoto,City/Kyoto_University.personal|Kyoto_University.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kansai/prefectures~Kansai/Kyoto,Prefecture/counties~Kyoto/Kyoto,City/Kyoto_University.secret|Kyoto_University.secret]] 
+

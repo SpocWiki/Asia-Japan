@@ -95,3 +95,20 @@ Facebook_username:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tokyo%20National%20Museum) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Taitō/Tokyo_National_Museum|Tokyo_National_Museum]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Taitō/Tokyo_National_Museum.public|Tokyo_National_Museum.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Taitō/Tokyo_National_Museum.internal|Tokyo_National_Museum.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Taitō/Tokyo_National_Museum.protect|Tokyo_National_Museum.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Taitō/Tokyo_National_Museum.private|Tokyo_National_Museum.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Taitō/Tokyo_National_Museum.personal|Tokyo_National_Museum.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tokyo/counties~Tokyo/Taitō/Tokyo_National_Museum.secret|Tokyo_National_Museum.secret]] 
+

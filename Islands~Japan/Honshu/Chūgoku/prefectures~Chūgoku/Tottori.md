@@ -40,17 +40,17 @@ markerFolder: ./Tottori/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tottori](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Tottori.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Tottori|Tottori]] 
 
-### #is_/same_as :: [Tottori.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Tottori.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Tottori.public|Tottori.public]] 
 
-### #is_/same_as :: [Tottori.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Tottori.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Tottori.internal|Tottori.internal]] 
 
-### #is_/same_as :: [Tottori.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Tottori.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Tottori.protect|Tottori.protect]] 
 
-### #is_/same_as :: [Tottori.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Tottori.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Tottori.private|Tottori.private]] 
 
-### #is_/same_as :: [Tottori.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Tottori.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Tottori.personal|Tottori.personal]] 
 
-### #is_/same_as :: [Tottori.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Chūgoku/prefectures~Chūgoku/Tottori.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Chūgoku/prefectures~Chūgoku/Tottori.secret|Tottori.secret]] 
 

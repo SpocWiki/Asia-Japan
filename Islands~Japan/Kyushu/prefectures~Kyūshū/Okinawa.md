@@ -40,17 +40,17 @@ markerFolder: ./Okinawa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Okinawa](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Okinawa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Okinawa|Okinawa]] 
 
-### #is_/same_as :: [Okinawa.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Okinawa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Okinawa.public|Okinawa.public]] 
 
-### #is_/same_as :: [Okinawa.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Okinawa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Okinawa.internal|Okinawa.internal]] 
 
-### #is_/same_as :: [Okinawa.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Okinawa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Okinawa.protect|Okinawa.protect]] 
 
-### #is_/same_as :: [Okinawa.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Okinawa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Okinawa.private|Okinawa.private]] 
 
-### #is_/same_as :: [Okinawa.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Okinawa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Okinawa.personal|Okinawa.personal]] 
 
-### #is_/same_as :: [Okinawa.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kyūshū/prefectures~Kyūshū/Okinawa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Kyushu/prefectures~Kyūshū/Okinawa.secret|Okinawa.secret]] 
 

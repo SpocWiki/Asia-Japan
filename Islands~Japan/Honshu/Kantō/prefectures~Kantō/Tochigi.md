@@ -40,17 +40,17 @@ markerFolder: ./Tochigi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tochigi](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tochigi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tochigi|Tochigi]] 
 
-### #is_/same_as :: [Tochigi.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tochigi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tochigi.public|Tochigi.public]] 
 
-### #is_/same_as :: [Tochigi.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tochigi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tochigi.internal|Tochigi.internal]] 
 
-### #is_/same_as :: [Tochigi.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tochigi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tochigi.protect|Tochigi.protect]] 
 
-### #is_/same_as :: [Tochigi.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tochigi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tochigi.private|Tochigi.private]] 
 
-### #is_/same_as :: [Tochigi.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tochigi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tochigi.personal|Tochigi.personal]] 
 
-### #is_/same_as :: [Tochigi.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Tochigi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Tochigi.secret|Tochigi.secret]] 
 

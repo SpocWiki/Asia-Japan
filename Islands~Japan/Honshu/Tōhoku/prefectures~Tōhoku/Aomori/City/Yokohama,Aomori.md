@@ -52,17 +52,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yokohama](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama,Aomori|Yokohama,Aomori]] 
 
-### #is_/same_as :: [Yokohama.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama,Aomori.public|Yokohama,Aomori.public]] 
 
-### #is_/same_as :: [Yokohama.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama,Aomori.internal|Yokohama,Aomori.internal]] 
 
-### #is_/same_as :: [Yokohama.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama,Aomori.protect|Yokohama,Aomori.protect]] 
 
-### #is_/same_as :: [Yokohama.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama,Aomori.private|Yokohama,Aomori.private]] 
 
-### #is_/same_as :: [Yokohama.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama,Aomori.personal|Yokohama,Aomori.personal]] 
 
-### #is_/same_as :: [Yokohama.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Aomori/City/Yokohama,Aomori.secret|Yokohama,Aomori.secret]] 
 

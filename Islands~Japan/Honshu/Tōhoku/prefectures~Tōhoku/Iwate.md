@@ -40,17 +40,17 @@ markerFolder: ./Iwate/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Iwate](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Iwate.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Iwate|Iwate]] 
 
-### #is_/same_as :: [Iwate.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Iwate.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Iwate.public|Iwate.public]] 
 
-### #is_/same_as :: [Iwate.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Iwate.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Iwate.internal|Iwate.internal]] 
 
-### #is_/same_as :: [Iwate.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Iwate.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Iwate.protect|Iwate.protect]] 
 
-### #is_/same_as :: [Iwate.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Iwate.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Iwate.private|Iwate.private]] 
 
-### #is_/same_as :: [Iwate.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Iwate.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Iwate.personal|Iwate.personal]] 
 
-### #is_/same_as :: [Iwate.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Tōhoku/prefectures~Tōhoku/Iwate.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Tōhoku/prefectures~Tōhoku/Iwate.secret|Iwate.secret]] 
 

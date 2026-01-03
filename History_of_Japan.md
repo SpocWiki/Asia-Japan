@@ -41,3 +41,21 @@ Commons_category: History of Japan
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Japan) 
 
  
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan|History_of_Japan]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan.public|History_of_Japan.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan.internal|History_of_Japan.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan.protect|History_of_Japan.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan.private|History_of_Japan.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan.personal|History_of_Japan.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan.secret|History_of_Japan.secret]] 
+

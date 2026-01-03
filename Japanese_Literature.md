@@ -39,3 +39,20 @@ Commons_category: Literature of Japan
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Japanese%20literature) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Japanese_Literature|Japanese_Literature]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Japanese_Literature.public|Japanese_Literature.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Japanese_Literature.internal|Japanese_Literature.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Japanese_Literature.protect|Japanese_Literature.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Japanese_Literature.private|Japanese_Literature.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Japanese_Literature.personal|Japanese_Literature.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Japanese_Literature.secret|Japanese_Literature.secret]] 
+

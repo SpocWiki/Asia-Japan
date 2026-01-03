@@ -40,17 +40,17 @@ markerFolder: ./Kanagawa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kanagawa](/_Standards/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Kanagawa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Kanagawa|Kanagawa]] 
 
-### #is_/same_as :: [Kanagawa.public](/_public/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Kanagawa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Kanagawa.public|Kanagawa.public]] 
 
-### #is_/same_as :: [Kanagawa.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Kanagawa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Kanagawa.internal|Kanagawa.internal]] 
 
-### #is_/same_as :: [Kanagawa.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Kanagawa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Kanagawa.protect|Kanagawa.protect]] 
 
-### #is_/same_as :: [Kanagawa.private](/_private/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Kanagawa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Kanagawa.private|Kanagawa.private]] 
 
-### #is_/same_as :: [Kanagawa.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Kanagawa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Kanagawa.personal|Kanagawa.personal]] 
 
-### #is_/same_as :: [Kanagawa.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan/Regions~Japan/Kantō/prefectures~Kantō/Kanagawa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Islands~Japan/Honshu/Kantō/prefectures~Kantō/Kanagawa.secret|Kanagawa.secret]] 
 

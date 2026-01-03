@@ -66,3 +66,20 @@ native_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tokugawa%20shogunate) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1603-Tokugawa_Shogunate+1867|1603-Tokugawa_Shogunate+1867]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1603-Tokugawa_Shogunate+1867.public|1603-Tokugawa_Shogunate+1867.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1603-Tokugawa_Shogunate+1867.internal|1603-Tokugawa_Shogunate+1867.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1603-Tokugawa_Shogunate+1867.protect|1603-Tokugawa_Shogunate+1867.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1603-Tokugawa_Shogunate+1867.private|1603-Tokugawa_Shogunate+1867.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1603-Tokugawa_Shogunate+1867.personal|1603-Tokugawa_Shogunate+1867.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/History_of_Japan/1603-Tokugawa_Shogunate+1867.secret|1603-Tokugawa_Shogunate+1867.secret]] 
+

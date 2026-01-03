@@ -165,3 +165,20 @@ Commons_category: Sea of Japan
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sea%20of%20Japan) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan/Sea_of_Japan|Sea_of_Japan]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan/Sea_of_Japan.public|Sea_of_Japan.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan/Sea_of_Japan.internal|Sea_of_Japan.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan/Sea_of_Japan.protect|Sea_of_Japan.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan/Sea_of_Japan.private|Sea_of_Japan.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan/Sea_of_Japan.personal|Sea_of_Japan.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan/Sea_of_Japan.secret|Sea_of_Japan.secret]] 
+
