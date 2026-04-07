@@ -19,42 +19,42 @@ official_name:
   - National Diet Library
   - 国立国会図書館
 native_label: 国立国会図書館
-operator: "[[_Standards/WikiData/WD~National_Diet,202384]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~National_Diet,202384]]"
+operator: "[[_Standards/WikiData/WD~National_Diet,202384|WD~National_Diet,202384]]"
+parent_organization_or_unit: "[[_Standards/WikiData/WD~National_Diet,202384|WD~National_Diet,202384]]"
 is_member_of:
-  - "[[_Standards/WikiData/WD~World_Digital_Library,475225]]"
-  - "[[_Standards/WikiData/WD~International_Internet_Preservation_Consortium,697497]]"
-  - "[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]"
-  - "[[_Standards/WikiData/WD~Geheugen_van_Nederland,1991604]]"
-has_characteristic: "[[_Standards/WikiData/WD~web_accessibility,808932]]"
+  - "[[_Standards/WikiData/WD~World_Digital_Library,475225|WD~World_Digital_Library,475225]]"
+  - "[[_Standards/WikiData/WD~International_Internet_Preservation_Consortium,697497|WD~International_Internet_Preservation_Consortium,697497]]"
+  - "[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284|WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]"
+  - "[[_Standards/WikiData/WD~Geheugen_van_Nederland,1991604|WD~Geheugen_van_Nederland,1991604]]"
+has_characteristic: "[[_Standards/WikiData/WD~web_accessibility,808932|WD~web_accessibility,808932]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~library_building,856584]]"
-  - "[[_Standards/WikiData/WD~library_in_Japan,11632449]]"
-  - "[[_Standards/WikiData/WD~national_library,22806]]"
-headquarters_location: "[[_Standards/WikiData/WD~Nagatachō,1197269]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Nagatachō,1197269]]"
+  - "[[_Standards/WikiData/WD~library_building,856584|WD~library_building,856584]]"
+  - "[[_Standards/WikiData/WD~library_in_Japan,11632449|WD~library_in_Japan,11632449]]"
+  - "[[_Standards/WikiData/WD~national_library,22806|WD~national_library,22806]]"
+headquarters_location: "[[_Standards/WikiData/WD~Nagatachō,1197269|WD~Nagatachō,1197269]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Nagatachō,1197269|WD~Nagatachō,1197269]]"
 owner_of:
-  - "[[_Standards/WikiData/WD~Web_NDL_Authorities,2553334]]"
-  - "[[_Standards/WikiData/WD~Collaborative_Reference_Database,11349872]]"
-  - "[[_Standards/WikiData/WD~Web_Archiving_Project,106255371]]"
-  - "[[_Standards/WikiData/WD~Next_Digital_Library,117962000]]"
+  - "[[_Standards/WikiData/WD~Web_NDL_Authorities,2553334|WD~Web_NDL_Authorities,2553334]]"
+  - "[[_Standards/WikiData/WD~Collaborative_Reference_Database,11349872|WD~Collaborative_Reference_Database,11349872]]"
+  - "[[_Standards/WikiData/WD~Web_Archiving_Project,106255371|WD~Web_Archiving_Project,106255371]]"
+  - "[[_Standards/WikiData/WD~Next_Digital_Library,117962000|WD~Next_Digital_Library,117962000]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~International_Library_of_Children's_Literature,4346431]]"
-  - "[[_Standards/WikiData/WD~Kansai_kan_of_the_National_Diet_Library,6364434]]"
-  - "[[_Standards/WikiData/WD~Modern_Japanese_Political_History_Materials_Room,11421239]]"
-  - "[[_Standards/WikiData/WD~Research_and_Legislative_Reference_Bureau,_National_Diet_Library,11421243]]"
-  - "[[_Standards/WikiData/WD~Detached_Library_in_the_Diet,11421240]]"
-  - "[[_Standards/WikiData/WD~Kokuritsu_Kokkai_Toshokan._Shibu_Ueno_Toshokan,11421241]]"
-  - "[[_Standards/WikiData/WD~Supreme_Court_Library,11515702]]"
-  - "[[_Standards/WikiData/WD~Kokuritsu_Kokkai_Toshokan_Toshokan_Kyoryokubu,24529031]]"
-replaces: "[[_Standards/WikiData/WD~Imperial_Library,6006737]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Director_General_of_the_National_Diet_Library,11421245]]"
+  - "[[_Standards/WikiData/WD~International_Library_of_Children's_Literature,4346431|WD~International_Library_of_Children's_Literature,4346431]]"
+  - "[[_Standards/WikiData/WD~Kansai_kan_of_the_National_Diet_Library,6364434|WD~Kansai_kan_of_the_National_Diet_Library,6364434]]"
+  - "[[_Standards/WikiData/WD~Modern_Japanese_Political_History_Materials_Room,11421239|WD~Modern_Japanese_Political_History_Materials_Room,11421239]]"
+  - "[[_Standards/WikiData/WD~Research_and_Legislative_Reference_Bureau,_National_Diet_Library,11421243|WD~Research_and_Legislative_Reference_Bureau,_National_Diet_Library,11421243]]"
+  - "[[_Standards/WikiData/WD~Detached_Library_in_the_Diet,11421240|WD~Detached_Library_in_the_Diet,11421240]]"
+  - "[[_Standards/WikiData/WD~Kokuritsu_Kokkai_Toshokan._Shibu_Ueno_Toshokan,11421241|WD~Kokuritsu_Kokkai_Toshokan._Shibu_Ueno_Toshokan,11421241]]"
+  - "[[_Standards/WikiData/WD~Supreme_Court_Library,11515702|WD~Supreme_Court_Library,11515702]]"
+  - "[[_Standards/WikiData/WD~Kokuritsu_Kokkai_Toshokan_Toshokan_Kyoryokubu,24529031|WD~Kokuritsu_Kokkai_Toshokan_Toshokan_Kyoryokubu,24529031]]"
+replaces: "[[_Standards/WikiData/WD~Imperial_Library,6006737|WD~Imperial_Library,6006737]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Director_General_of_the_National_Diet_Library,11421245|WD~Director_General_of_the_National_Diet_Library,11421245]]"
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_National_Diet_Library,26131869]]"
-  - "[[_Standards/WikiData/WD~Template_National_Diet_Library_ID,100333837]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~Branch_Library,44269577]]"
-described_by_source: "[[_Standards/WikiData/WD~Open_GLAM_Survey,73357989]]"
-architect: "[[_Standards/WikiData/WD~Maekawa_Associates,_Architects_&_Engineers,85877124]]"
+  - "[[_Standards/WikiData/WD~Template_National_Diet_Library,26131869|WD~Template_National_Diet_Library,26131869]]"
+  - "[[_Standards/WikiData/WD~Template_National_Diet_Library_ID,100333837|WD~Template_National_Diet_Library_ID,100333837]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~Branch_Library,44269577|WD~Branch_Library,44269577]]"
+described_by_source: "[[_Standards/WikiData/WD~Open_GLAM_Survey,73357989|WD~Open_GLAM_Survey,73357989]]"
+architect: "[[_Standards/WikiData/WD~Maekawa_Associates,_Architects_&_Engineers,85877124|WD~Maekawa_Associates,_Architects_&_Engineers,85877124]]"
 Wikidata_property:
   - NDL Authority ID
   - NDL Bib ID
@@ -62,7 +62,7 @@ Wikidata_property:
   - NDL law ID
   - NDL Persistent ID
   - NDL earlier law ID
-country: "[[_Standards/WikiData/WD~Japan,17]]"
+country: "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
 social_media_followers: 8290
 hashtag: 国立国会図書館
 described_at_URL: http://viaf.org/viaf/partnerpages/NDL.html

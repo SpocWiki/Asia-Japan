@@ -3,13 +3,13 @@ aliases:
   - Jojo
   - bandalore
 has_id_wikidata: Q183621
-different_from: "[[_Standards/WikiData/WD~Jojo,292578]]"
+different_from: "[[_Standards/WikiData/WD~Jojo,292578|WD~Jojo,292578]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~game_of_skill,1368898]]"
-  - "[[_Standards/WikiData/WD~circus_skill,4990963]]"
-  - "[[_Standards/WikiData/WD~toy,11422]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-instance_of: "[[_Standards/WikiData/WD~hobby,47728]]"
+  - "[[_Standards/WikiData/WD~game_of_skill,1368898|WD~game_of_skill,1368898]]"
+  - "[[_Standards/WikiData/WD~circus_skill,4990963|WD~circus_skill,4990963]]"
+  - "[[_Standards/WikiData/WD~toy,11422|WD~toy,11422]]"
+described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+instance_of: "[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]"
 OmegaWiki_Defined_Meaning: "160259"
 Nomenclature_for_Museum_Cataloging: "14896"
 GS1_GPC_code: "10005165"

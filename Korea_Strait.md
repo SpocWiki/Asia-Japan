@@ -3,21 +3,21 @@ aliases:
   - Korea Strait
 has_id_wikidata: Q52052
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 coordinate_location: Point(129.796666666 34.599444444)
 country:
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~South_Korea,884]]"
-  - "[[_Standards/WikiData/WD~Japan,17]]"
-instance_of: "[[_Standards/WikiData/WD~strait,37901]]"
+  - "[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]"
+  - "[[_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]"
+  - "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
+instance_of: "[[_Standards/WikiData/WD~strait,37901|WD~strait,37901]]"
 vertical_depth: 227
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Western_Channel,52054]]"
-  - "[[_Standards/WikiData/WD~Tsushima_Strait,52055]]"
+  - "[[_Standards/WikiData/WD~Western_Channel,52054|WD~Western_Channel,52054]]"
+  - "[[_Standards/WikiData/WD~Tsushima_Strait,52055|WD~Tsushima_Strait,52055]]"
 Commons_category: Korea Strait
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Korea%20Strait.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Satellite%20image%20of%20South%20Korea%20in%20January%202004.jpg

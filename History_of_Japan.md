@@ -2,17 +2,17 @@
 aliases:
 has_id_wikidata: Q130436
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_East_Asia,831198]]"
-studied_by: "[[_Standards/WikiData/WD~kokugaku,855159]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Japanese_history,2967218]]"
-has_part_s_: "[[_Standards/WikiData/WD~feudal_Japan,3092690]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Ancient_Japan,15094791]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Japan,17]]"
-country: "[[_Standards/WikiData/WD~Japan,17]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Japan,55508]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_East_Asia,831198|WD~history_of_East_Asia,831198]]"
+studied_by: "[[_Standards/WikiData/WD~kokugaku,855159|WD~kokugaku,855159]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Japanese_history,2967218|WD~timeline_of_Japanese_history,2967218]]"
+has_part_s_: "[[_Standards/WikiData/WD~feudal_Japan,3092690|WD~feudal_Japan,3092690]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Ancient_Japan,15094791|WD~Portal_Ancient_Japan,15094791]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
+country: "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Japan,55508|WD~Template_History_of_Japan,55508]]"
 Dewey_Decimal_Classification: "952"
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Wave%20banner.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86.wav

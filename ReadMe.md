@@ -118,7 +118,7 @@ markerFolder: ./
 [Area-Land::376520] 
 Continent :: [[Asia]]  
 [VehicleCode::J] 
-Capital :: [[Japan/Counties/Tokyo/City/Tokio]]  
+Capital :: [[Japan/Counties/Tokyo/City/Tokio|Tokio]]  
 ![[Coat_of_arms_of_Japan.svg|350]] 
 ![[Anthem-Japan.mp3]] 
 ![[Japan/Flag_of_Japan.svg|350]] 

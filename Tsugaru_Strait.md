@@ -4,20 +4,20 @@ has_id_wikidata: Q271521
 location: [ 41.33333, 140.33333]
 coordinate_location: Point(140.33333 41.33333)
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Aomori_Prefecture,71699]]"
-  - "[[_Standards/WikiData/WD~Hokkaido,1037393]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Aomori_Prefecture,71699|WD~Aomori_Prefecture,71699]]"
+  - "[[_Standards/WikiData/WD~Hokkaido,1037393|WD~Hokkaido,1037393]]"
+described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 inflows:
-  - "[[_Standards/WikiData/WD~Kameda_River,11370996]]"
-  - "[[_Standards/WikiData/WD~Matsukura_River,11529265]]"
-  - "[[_Standards/WikiData/WD~Q11545566,11545566]]"
-  - "[[_Standards/WikiData/WD~Shiriuchi_River,14840615]]"
-  - "[[_Standards/WikiData/WD~Kikonai_River,17210350]]"
-named_after: "[[_Standards/WikiData/WD~Tsugaru_region,11556401]]"
-part_of: "[[_Standards/WikiData/WD~Sea_of_Japan,27092]]"
-country: "[[_Standards/WikiData/WD~Japan,17]]"
+  - "[[_Standards/WikiData/WD~Kameda_River,11370996|WD~Kameda_River,11370996]]"
+  - "[[_Standards/WikiData/WD~Matsukura_River,11529265|WD~Matsukura_River,11529265]]"
+  - "[[_Standards/WikiData/WD~Q11545566,11545566|WD~Q11545566,11545566]]"
+  - "[[_Standards/WikiData/WD~Shiriuchi_River,14840615|WD~Shiriuchi_River,14840615]]"
+  - "[[_Standards/WikiData/WD~Kikonai_River,17210350|WD~Kikonai_River,17210350]]"
+named_after: "[[_Standards/WikiData/WD~Tsugaru_region,11556401|WD~Tsugaru_region,11556401]]"
+part_of: "[[_Standards/WikiData/WD~Sea_of_Japan,27092|WD~Sea_of_Japan,27092]]"
+country: "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
 vertical_depth: 200
-instance_of: "[[_Standards/WikiData/WD~strait,37901]]"
+instance_of: "[[_Standards/WikiData/WD~strait,37901|WD~strait,37901]]"
 Commons_category: Tsugaru Strait
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Location%20TsugaruPeninsulaJp.jpg
 detail_map:

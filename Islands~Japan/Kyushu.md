@@ -5,31 +5,31 @@ aliases:
   - Kyushu
 has_id_wikidata: Q13987
 located_in_on_physical_feature:
-  - "[[_Standards/WikiData/WD~Seto_Inland_Sea,231312]]"
-  - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
-  - "[[_Standards/WikiData/WD~East_China_Sea,45341]]"
+  - "[[_Standards/WikiData/WD~Seto_Inland_Sea,231312|WD~Seto_Inland_Sea,231312]]"
+  - "[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]"
+  - "[[_Standards/WikiData/WD~East_China_Sea,45341|WD~East_China_Sea,45341]]"
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Seto_Inland_Sea,231312]]"
-  - "[[_Standards/WikiData/WD~Sea_of_Japan,27092]]"
-  - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
-  - "[[_Standards/WikiData/WD~East_China_Sea,45341]]"
+  - "[[_Standards/WikiData/WD~Seto_Inland_Sea,231312|WD~Seto_Inland_Sea,231312]]"
+  - "[[_Standards/WikiData/WD~Sea_of_Japan,27092|WD~Sea_of_Japan,27092]]"
+  - "[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]"
+  - "[[_Standards/WikiData/WD~East_China_Sea,45341|WD~East_China_Sea,45341]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 part_of:
-  - "[[_Standards/WikiData/WD~Japanese_archipelago,841337]]"
-  - "[[_Standards/WikiData/WD~four_main_islands_of_Japan,53540235]]"
-highest_point: "[[_Standards/WikiData/WD~Kuju_Mountains,6921721]]"
-language_used: "[[_Standards/WikiData/WD~Kyūshū_Japanese,10878817]]"
-location: "[[_Standards/WikiData/WD~Kyūshū_region,13393883]]"
-named_after: "[[_Standards/WikiData/WD~ennead,29442136]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q109732987,109732987]]"
+  - "[[_Standards/WikiData/WD~Japanese_archipelago,841337|WD~Japanese_archipelago,841337]]"
+  - "[[_Standards/WikiData/WD~four_main_islands_of_Japan,53540235|WD~four_main_islands_of_Japan,53540235]]"
+highest_point: "[[_Standards/WikiData/WD~Kuju_Mountains,6921721|WD~Kuju_Mountains,6921721]]"
+language_used: "[[_Standards/WikiData/WD~Kyūshū_Japanese,10878817|WD~Kyūshū_Japanese,10878817]]"
+location: "[[_Standards/WikiData/WD~Kyūshū_region,13393883|WD~Kyūshū_region,13393883]]"
+named_after: "[[_Standards/WikiData/WD~ennead,29442136|WD~ennead,29442136]]"
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q109732987,109732987|WD~Q109732987,109732987]]"
 coordinate_location: Point(131.0 33.0)
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+09_00,7041]]"
-instance_of: "[[_Standards/WikiData/WD~island,23442]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Japan,17]]"
-country: "[[_Standards/WikiData/WD~Japan,17]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+09_00,7041|WD~UTC+09_00,7041]]"
+instance_of: "[[_Standards/WikiData/WD~island,23442|WD~island,23442]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
+country: "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
 native_label: 九州
 area: 36782.11
 Commons_gallery: Kyushu

@@ -9,24 +9,24 @@ has_id_wikidata: Q217475
 location: [ 35.682583333, 139.778888888]
 coordinate_location: Point(139.778888888 35.682583333)
 stock_market_index:
-  - "[[_Standards/WikiData/WD~TOPIX,238974]]"
-  - "[[_Standards/WikiData/WD~Nikkei_225,507338]]"
+  - "[[_Standards/WikiData/WD~TOPIX,238974|WD~TOPIX,238974]]"
+  - "[[_Standards/WikiData/WD~Nikkei_225,507338|WD~Nikkei_225,507338]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~stock_market,475000]]"
-  - "[[_Standards/WikiData/WD~stock_exchange,11691]]"
+  - "[[_Standards/WikiData/WD~stock_market,475000|WD~stock_market,475000]]"
+  - "[[_Standards/WikiData/WD~stock_exchange,11691|WD~stock_exchange,11691]]"
 industry:
-  - "[[_Standards/WikiData/WD~financial_services,837171]]"
-  - "[[_Standards/WikiData/WD~financial_instruments_exchange,11647877]]"
-legal_form: "[[_Standards/WikiData/WD~kabushiki_gaisha,1480166]]"
+  - "[[_Standards/WikiData/WD~financial_services,837171|WD~financial_services,837171]]"
+  - "[[_Standards/WikiData/WD~financial_instruments_exchange,11647877|WD~financial_instruments_exchange,11647877]]"
+legal_form: "[[_Standards/WikiData/WD~kabushiki_gaisha,1480166|WD~kabushiki_gaisha,1480166]]"
 headquarters_location:
-  - "[[_Standards/WikiData/WD~Nihonbashi_Kabutochō,1720870]]"
-  - "[[_Standards/WikiData/WD~Tokyo,1490]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Tokyo_Stock_Exchange,6810323]]"
-member_of: "[[_Standards/WikiData/WD~Japanese_Stock_Exchanges_Conference,11389551]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~Japan_Exchange_Group,11507487]]"
-operator: "[[_Standards/WikiData/WD~Japan_Exchange_Group,11507487]]"
-location_of_formation: "[[_Standards/WikiData/WD~Tokyo,1490]]"
-country: "[[_Standards/WikiData/WD~Japan,17]]"
+  - "[[_Standards/WikiData/WD~Nihonbashi_Kabutochō,1720870|WD~Nihonbashi_Kabutochō,1720870]]"
+  - "[[_Standards/WikiData/WD~Tokyo,1490|WD~Tokyo,1490]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Tokyo_Stock_Exchange,6810323|WD~Template_Tokyo_Stock_Exchange,6810323]]"
+member_of: "[[_Standards/WikiData/WD~Japanese_Stock_Exchanges_Conference,11389551|WD~Japanese_Stock_Exchanges_Conference,11389551]]"
+parent_organization_or_unit: "[[_Standards/WikiData/WD~Japan_Exchange_Group,11507487|WD~Japan_Exchange_Group,11507487]]"
+operator: "[[_Standards/WikiData/WD~Japan_Exchange_Group,11507487|WD~Japan_Exchange_Group,11507487]]"
+location_of_formation: "[[_Standards/WikiData/WD~Tokyo,1490|WD~Tokyo,1490]]"
+country: "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
 employees: 411
 catalog_code:
   - T

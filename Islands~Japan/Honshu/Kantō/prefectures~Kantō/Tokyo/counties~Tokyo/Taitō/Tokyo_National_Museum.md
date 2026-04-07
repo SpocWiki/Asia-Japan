@@ -10,32 +10,32 @@ name_in_kana: とうきょうこくりつはくぶつかん
 short_name:
   - 東博
   - TNM
-locations: "[[_Standards/WikiData/WD~Ueno,576781]]"
-part_of: "[[_Standards/WikiData/WD~Ueno_Imperial_Grant_Park,746216]]"
+locations: "[[_Standards/WikiData/WD~Ueno,576781|WD~Ueno,576781]]"
+part_of: "[[_Standards/WikiData/WD~Ueno_Imperial_Grant_Park,746216|WD~Ueno_Imperial_Grant_Park,746216]]"
 architect:
-  - "[[_Standards/WikiData/WD~Josiah_Conder,1187770]]"
-  - "[[_Standards/WikiData/WD~Jin_Watanabe,11562043]]"
-heritage_designation: "[[_Standards/WikiData/WD~Important_Cultural_Property_of_Japan,1188622]]"
-location_of_formation: "[[_Standards/WikiData/WD~Yushima_Seidō,1760591]]"
+  - "[[_Standards/WikiData/WD~Josiah_Conder,1187770|WD~Josiah_Conder,1187770]]"
+  - "[[_Standards/WikiData/WD~Jin_Watanabe,11562043|WD~Jin_Watanabe,11562043]]"
+heritage_designation: "[[_Standards/WikiData/WD~Important_Cultural_Property_of_Japan,1188622|WD~Important_Cultural_Property_of_Japan,1188622]]"
+location_of_formation: "[[_Standards/WikiData/WD~Yushima_Seidō,1760591|WD~Yushima_Seidō,1760591]]"
 architectural_style:
-  - "[[_Standards/WikiData/WD~Imperial_Crown_Style,11060089]]"
-  - "[[_Standards/WikiData/WD~Japanese_Western_Eclectic_Architecture,11417855]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~National_Institutes_for_Cultural_Heritage,11421271]]"
-operator: "[[_Standards/WikiData/WD~National_Institutes_for_Cultural_Heritage,11421271]]"
+  - "[[_Standards/WikiData/WD~Imperial_Crown_Style,11060089|WD~Imperial_Crown_Style,11060089]]"
+  - "[[_Standards/WikiData/WD~Japanese_Western_Eclectic_Architecture,11417855|WD~Japanese_Western_Eclectic_Architecture,11417855]]"
+parent_organization_or_unit: "[[_Standards/WikiData/WD~National_Institutes_for_Cultural_Heritage,11421271|WD~National_Institutes_for_Cultural_Heritage,11421271]]"
+operator: "[[_Standards/WikiData/WD~National_Institutes_for_Cultural_Heritage,11421271|WD~National_Institutes_for_Cultural_Heritage,11421271]]"
 has_list:
-  - "[[_Standards/WikiData/WD~list_of_Cultural_Properties_of_Japan_in_the_Tokyo_National_Museum,11524611]]"
-  - "[[_Standards/WikiData/WD~list_of_works_exhibited_at_the_National_Treasure_Gallery,49000763]]"
-owner_of: "[[_Standards/WikiData/WD~Hōryū_ji_Treasures_at_Tokyo_National_Museum,11555388]]"
-chairperson: "[[_Standards/WikiData/WD~Masami_Zeniya,11650293]]"
-instance_of: "[[_Standards/WikiData/WD~national_museum,17431399]]"
-member_of: "[[_Standards/WikiData/WD~Japan_Consortium_for_Open_Access_Repository,56056912]]"
-described_by_source: "[[_Standards/WikiData/WD~Open_GLAM_Survey,73357989]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Ueno_kōen,92909922]]"
-has_part_s_: "[[_Standards/WikiData/WD~Gallery_of_Hōryū_ji_Treasures,123195811]]"
+  - "[[_Standards/WikiData/WD~list_of_Cultural_Properties_of_Japan_in_the_Tokyo_National_Museum,11524611|WD~list_of_Cultural_Properties_of_Japan_in_the_Tokyo_National_Museum,11524611]]"
+  - "[[_Standards/WikiData/WD~list_of_works_exhibited_at_the_National_Treasure_Gallery,49000763|WD~list_of_works_exhibited_at_the_National_Treasure_Gallery,49000763]]"
+owner_of: "[[_Standards/WikiData/WD~Hōryū_ji_Treasures_at_Tokyo_National_Museum,11555388|WD~Hōryū_ji_Treasures_at_Tokyo_National_Museum,11555388]]"
+chairperson: "[[_Standards/WikiData/WD~Masami_Zeniya,11650293|WD~Masami_Zeniya,11650293]]"
+instance_of: "[[_Standards/WikiData/WD~national_museum,17431399|WD~national_museum,17431399]]"
+member_of: "[[_Standards/WikiData/WD~Japan_Consortium_for_Open_Access_Repository,56056912|WD~Japan_Consortium_for_Open_Access_Repository,56056912]]"
+described_by_source: "[[_Standards/WikiData/WD~Open_GLAM_Survey,73357989|WD~Open_GLAM_Survey,73357989]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Ueno_kōen,92909922|WD~Ueno_kōen,92909922]]"
+has_part_s_: "[[_Standards/WikiData/WD~Gallery_of_Hōryū_ji_Treasures,123195811|WD~Gallery_of_Hōryū_ji_Treasures,123195811]]"
 date_of_official_opening: 1872-04-17T00:00:00Z
 inception: 1872-01-01T00:00:00Z
-headquarters_location: "[[_Standards/WikiData/WD~Tokyo,1490]]"
-country: "[[_Standards/WikiData/WD~Japan,17]]"
+headquarters_location: "[[_Standards/WikiData/WD~Tokyo,1490|WD~Tokyo,1490]]"
+country: "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
 social_media_followers:
   - 41600
   - 164475

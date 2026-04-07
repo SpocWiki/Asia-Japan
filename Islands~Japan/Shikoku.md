@@ -3,24 +3,24 @@ aliases:
   - 四国
 has_id_wikidata: Q13991
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Seto_Inland_Sea,231312]]"
-  - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+  - "[[_Standards/WikiData/WD~Seto_Inland_Sea,231312|WD~Seto_Inland_Sea,231312]]"
+  - "[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
 part_of:
-  - "[[_Standards/WikiData/WD~Japanese_archipelago,841337]]"
-  - "[[_Standards/WikiData/WD~four_main_islands_of_Japan,53540235]]"
-highest_point: "[[_Standards/WikiData/WD~Mount_Ishizuchi,2744214]]"
-language_used: "[[_Standards/WikiData/WD~Shikoku_dialect,7496609]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Shikoku_Region,60213044]]"
-location: "[[_Standards/WikiData/WD~Shikoku_Region,60213044]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+09_00,7041]]"
-instance_of: "[[_Standards/WikiData/WD~island,23442]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Japan,17]]"
-country: "[[_Standards/WikiData/WD~Japan,17]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+  - "[[_Standards/WikiData/WD~Japanese_archipelago,841337|WD~Japanese_archipelago,841337]]"
+  - "[[_Standards/WikiData/WD~four_main_islands_of_Japan,53540235|WD~four_main_islands_of_Japan,53540235]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Ishizuchi,2744214|WD~Mount_Ishizuchi,2744214]]"
+language_used: "[[_Standards/WikiData/WD~Shikoku_dialect,7496609|WD~Shikoku_dialect,7496609]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Shikoku_Region,60213044|WD~Shikoku_Region,60213044]]"
+location: "[[_Standards/WikiData/WD~Shikoku_Region,60213044|WD~Shikoku_Region,60213044]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+09_00,7041|WD~UTC+09_00,7041]]"
+instance_of: "[[_Standards/WikiData/WD~island,23442|WD~island,23442]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
+country: "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
 elevation_above_sea_level:
   - 151
   - 1982

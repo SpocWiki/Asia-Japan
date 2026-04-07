@@ -2,20 +2,20 @@
 aliases:
 has_id_wikidata: Q231425
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
 part_of:
-  - "[[_Standards/WikiData/WD~culture_of_Japan,831454]]"
-  - "[[_Standards/WikiData/WD~East_Asian_literature,15945785]]"
-studied_by: "[[_Standards/WikiData/WD~Japanese_studies,875592]]"
+  - "[[_Standards/WikiData/WD~culture_of_Japan,831454|WD~culture_of_Japan,831454]]"
+  - "[[_Standards/WikiData/WD~East_Asian_literature,15945785|WD~East_Asian_literature,15945785]]"
+studied_by: "[[_Standards/WikiData/WD~Japanese_studies,875592|WD~Japanese_studies,875592]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]"
-subclass_of: "[[_Standards/WikiData/WD~East_Asian_literature,15945785]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Japanese_literature,113861699]]"
+  - "[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]"
+  - "[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]"
+  - "[[_Standards/WikiData/WD~sub_set_of_literature,109551565|WD~sub_set_of_literature,109551565]]"
+subclass_of: "[[_Standards/WikiData/WD~East_Asian_literature,15945785|WD~East_Asian_literature,15945785]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Japanese_literature,113861699|WD~history_of_Japanese_literature,113861699]]"
 Commons_category: Literature of Japan
 ---
 

@@ -2,33 +2,33 @@
 aliases:
 has_id_wikidata: Q13989
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Chūgoku_region,127864]]"
-  - "[[_Standards/WikiData/WD~Tōhoku_region,129465]]"
-  - "[[_Standards/WikiData/WD~Kantō_region,132480]]"
-  - "[[_Standards/WikiData/WD~Chūbu_region,134638]]"
-  - "[[_Standards/WikiData/WD~Kansai_region,164256]]"
+  - "[[_Standards/WikiData/WD~Chūgoku_region,127864|WD~Chūgoku_region,127864]]"
+  - "[[_Standards/WikiData/WD~Tōhoku_region,129465|WD~Tōhoku_region,129465]]"
+  - "[[_Standards/WikiData/WD~Kantō_region,132480|WD~Kantō_region,132480]]"
+  - "[[_Standards/WikiData/WD~Chūbu_region,134638|WD~Chūbu_region,134638]]"
+  - "[[_Standards/WikiData/WD~Kansai_region,164256|WD~Kansai_region,164256]]"
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Seto_Inland_Sea,231312]]"
-  - "[[_Standards/WikiData/WD~Sea_of_Japan,27092]]"
-  - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+  - "[[_Standards/WikiData/WD~Seto_Inland_Sea,231312|WD~Seto_Inland_Sea,231312]]"
+  - "[[_Standards/WikiData/WD~Sea_of_Japan,27092|WD~Sea_of_Japan,27092]]"
+  - "[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]"
 part_of:
-  - "[[_Standards/WikiData/WD~Japanese_archipelago,841337]]"
-  - "[[_Standards/WikiData/WD~four_main_islands_of_Japan,53540235]]"
-instance_of: "[[_Standards/WikiData/WD~island_of_Japan,17308006]]"
+  - "[[_Standards/WikiData/WD~Japanese_archipelago,841337|WD~Japanese_archipelago,841337]]"
+  - "[[_Standards/WikiData/WD~four_main_islands_of_Japan,53540235|WD~four_main_islands_of_Japan,53540235]]"
+instance_of: "[[_Standards/WikiData/WD~island_of_Japan,17308006|WD~island_of_Japan,17308006]]"
 coordinates_of_southernmost_point: Point(135.75 33.433333333)
 located_in_on_physical_feature:
-  - "[[_Standards/WikiData/WD~Pacific_Ring_of_Fire,18783]]"
-  - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
-country: "[[_Standards/WikiData/WD~Japan,17]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+  - "[[_Standards/WikiData/WD~Pacific_Ring_of_Fire,18783|WD~Pacific_Ring_of_Fire,18783]]"
+  - "[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]"
+country: "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
 length: 1300
 width: 240
 population: 104000000
-highest_point: "[[_Standards/WikiData/WD~Mount_Fuji,39231]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Fuji,39231|WD~Mount_Fuji,39231]]"
 perimeter: 5450
 area:
   - 88968

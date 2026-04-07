@@ -7,36 +7,36 @@ inception: 1603-03-24T00:00:00Z
 location: [ 35.683888888, 139.774444444]
 coordinate_location: Point(139.774444444 35.683888888)
 dissolved_abolished_or_demolished_date: 1867-11-09T00:00:00Z
-founded_by: "[[_Standards/WikiData/WD~Tokugawa_Ieyasu,171977]]"
+founded_by: "[[_Standards/WikiData/WD~Tokugawa_Ieyasu,171977|WD~Tokugawa_Ieyasu,171977]]"
 head_of_state:
-  - "[[_Standards/WikiData/WD~Tokugawa_Ieyasu,171977]]"
-  - "[[_Standards/WikiData/WD~Tokugawa_Hidetada,314464]]"
+  - "[[_Standards/WikiData/WD~Tokugawa_Ieyasu,171977|WD~Tokugawa_Ieyasu,171977]]"
+  - "[[_Standards/WikiData/WD~Tokugawa_Hidetada,314464|WD~Tokugawa_Hidetada,314464]]"
 replaced_by:
-  - "[[_Standards/WikiData/WD~Empire_of_Japan,188712]]"
-  - "[[_Standards/WikiData/WD~Government_of_Meiji_Japan,1322181]]"
+  - "[[_Standards/WikiData/WD~Empire_of_Japan,188712|WD~Empire_of_Japan,188712]]"
+  - "[[_Standards/WikiData/WD~Government_of_Meiji_Japan,1322181|WD~Government_of_Meiji_Japan,1322181]]"
 named_after:
-  - "[[_Standards/WikiData/WD~Edo,215646]]"
-  - "[[_Standards/WikiData/WD~Tokugawa_clan,1412769]]"
-capital: "[[_Standards/WikiData/WD~Edo,215646]]"
+  - "[[_Standards/WikiData/WD~Edo,215646|WD~Edo,215646]]"
+  - "[[_Standards/WikiData/WD~Tokugawa_clan,1412769|WD~Tokugawa_clan,1412769]]"
+capital: "[[_Standards/WikiData/WD~Edo,215646|WD~Edo,215646]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~government_agency,327333]]"
-  - "[[_Standards/WikiData/WD~shogunate,1074150]]"
-  - "[[_Standards/WikiData/WD~historical_country,3024240]]"
+  - "[[_Standards/WikiData/WD~government_agency,327333|WD~government_agency,327333]]"
+  - "[[_Standards/WikiData/WD~shogunate,1074150|WD~shogunate,1074150]]"
+  - "[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]"
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Shinto,812767]]"
-  - "[[_Standards/WikiData/WD~Buddhism,748]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~hereditary_monarchy,849242]]"
-headquarters_location: "[[_Standards/WikiData/WD~Edo_Castle,865913]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Musashi_Province,907398]]"
+  - "[[_Standards/WikiData/WD~Shinto,812767|WD~Shinto,812767]]"
+  - "[[_Standards/WikiData/WD~Buddhism,748|WD~Buddhism,748]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~hereditary_monarchy,849242|WD~hereditary_monarchy,849242]]"
+headquarters_location: "[[_Standards/WikiData/WD~Edo_Castle,865913|WD~Edo_Castle,865913]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Musashi_Province,907398|WD~Musashi_Province,907398]]"
 currency:
-  - "[[_Standards/WikiData/WD~ryō,3057942]]"
-  - "[[_Standards/WikiData/WD~Tokugawa_coinage,5976974]]"
-official_language: "[[_Standards/WikiData/WD~Early_Modern_Japanese,5326692]]"
-replaces: "[[_Standards/WikiData/WD~Toyotomi_government,11634225]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Tokugawa_shogun,14916275]]"
-located_in_the_present_day_administrative_territorial_entity: "[[_Standards/WikiData/WD~Tokyo,1490]]"
-country: "[[_Standards/WikiData/WD~Japan,17]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+  - "[[_Standards/WikiData/WD~ryō,3057942|WD~ryō,3057942]]"
+  - "[[_Standards/WikiData/WD~Tokugawa_coinage,5976974|WD~Tokugawa_coinage,5976974]]"
+official_language: "[[_Standards/WikiData/WD~Early_Modern_Japanese,5326692|WD~Early_Modern_Japanese,5326692]]"
+replaces: "[[_Standards/WikiData/WD~Toyotomi_government,11634225|WD~Toyotomi_government,11634225]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Tokugawa_shogun,14916275|WD~Tokugawa_shogun,14916275]]"
+located_in_the_present_day_administrative_territorial_entity: "[[_Standards/WikiData/WD~Tokyo,1490|WD~Tokyo,1490]]"
+country: "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Tokugawa%20family%20crest.svg
 Commons_category: Tokugawa shogunate
 Commons_gallery: 江戸幕府
