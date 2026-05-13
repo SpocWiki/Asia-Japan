@@ -73,7 +73,7 @@ ISO_9362_SWIFT_BIC_code:
 > 
 > JPX itself was launched on January 1, 2013.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tokyo%20Stock%20Exchange)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Tokyo%20Stock%20Exchange) 
 
 
 ## Confidential Links & Embeds: 

@@ -47,7 +47,7 @@ maxZoom: 18
 > and a population density of 33 persons per km2, in 1,779 households. 
 > The total area of the town is 126.38 square kilometres (48.80 sq mi).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Yokohama,%20Aomori)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Yokohama,%20Aomori) 
 
 
 ## Confidential Links & Embeds: 

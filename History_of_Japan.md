@@ -40,8 +40,6 @@ Commons_category: History of Japan
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Japan) 
 
- 
-
 
 ## Confidential Links & Embeds: 
 

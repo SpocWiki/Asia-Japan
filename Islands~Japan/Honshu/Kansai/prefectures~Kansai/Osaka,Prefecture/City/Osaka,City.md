@@ -259,7 +259,7 @@ maxZoom: 18
 > 
 > Famous landmarks in the city include Osaka Castle, Osaka Aquarium Kaiyukan, Dōtonbori, Tsūtenkaku in Shinsekai, Tennōji Park, Abeno Harukas, Sumiyoshi Taisha Grand Shrine, and Shitennō-ji, one of the oldest Buddhist temples in Japan.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Osaka)
+> [Wikipedia](https://en.wikipedia.org/wiki/Osaka) 
 
 
 ## Confidential Links & Embeds: 

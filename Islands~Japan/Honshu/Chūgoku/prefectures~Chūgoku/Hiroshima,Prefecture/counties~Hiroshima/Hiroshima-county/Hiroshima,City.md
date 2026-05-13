@@ -31,7 +31,7 @@ coordinates: [[Hiroshima]]
 markerFile: [[Hiroshima]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -37,7 +37,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kyoto/
 markerFolder: ./Kyoto/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

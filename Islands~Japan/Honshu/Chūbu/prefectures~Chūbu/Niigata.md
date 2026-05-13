@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Niigata/
 markerFolder: ./Niigata/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

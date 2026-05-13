@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ibaraki/
 markerFolder: ./Ibaraki/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

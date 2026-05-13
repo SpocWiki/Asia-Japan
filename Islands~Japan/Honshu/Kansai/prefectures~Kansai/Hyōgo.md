@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Hyōgo/
 markerFolder: ./Hyōgo/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

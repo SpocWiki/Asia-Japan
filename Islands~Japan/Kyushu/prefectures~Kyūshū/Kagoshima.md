@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kagoshima/
 markerFolder: ./Kagoshima/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

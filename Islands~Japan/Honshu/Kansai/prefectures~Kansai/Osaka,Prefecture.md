@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Osaka/
 markerFolder: ./Osaka/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
